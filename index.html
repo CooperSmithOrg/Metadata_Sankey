@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kuunika</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div>
+        <!--
+        <span class="sr-only">Network Visualization</span>
+        <span class="icon-bar">Kuunika Goals</span>
+        <span class="icon-bar">Data Systems</span>
+        <span class="icon-bar">Data Users</span>
+        <span class="icon-bar">Data Elements</span>-->
+        <div class="page-header">
+            <a class="navbar-brand" href="#">Kuunika Project</a>
+            <!-- Drop-Down Section -->
+            <div class="dropdown">
+                <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    Select Slice
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                    <li><a href="#" class="dropdown-item" data-source="data/Descriptive.json">Descriptive</a></li>
+                    <li><a href="#" class="dropdown-item" data-source="data/Critical-Decisions.json">Critical Decisions</a></li>
+                    <li><a href="#" class="dropdown-item" data-source="data/Critical-data-for-decisions.json">Critical data for decisions</a></li>
+                    <li><a href="#" class="dropdown-item" data-source="data/Access-to-info.json">Access to info</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li><a href="#" class="dropdown-item" data-topten=true data-source="data/Descriptive.json">Descriptive (top ten)</a></li>
+                    <li><a href="#" class="dropdown-item" data-topten=true data-source="data/Critical-Decisions.json">Critical Decisions (top ten)</a></li>
+                    <li><a href="#" class="dropdown-item" data-topten=true data-source="data/Critical-data-for-decisions.json">Critical data for decisions (top ten)</a></li>
+                    <li><a href="#" class="dropdown-item" data-topten=true data-source="data/Access-to-info.json">Access to info (top ten)</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li><a href="#" class="dropdown-item" data-filter="Drugs" data-source="data/Access-to-info.json">Access to Info (Drugs)</a></li>
+                    <li><a href="#" class="dropdown-item" data-filter="Drugs" data-topten=true data-source="data/Critical-data-for-decisions.json">Critical data for decisions (Drugs & top ten)</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="jumbotron">
+            <div class="container">
+                <!-- Chart Section -->
+                <div class="container">
+                    <div id="chart"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="https://cdn.rawgit.com/Neilos/bihisankey/master/bihisankey.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

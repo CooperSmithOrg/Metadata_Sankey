@@ -1,0 +1,78 @@
+.node rect {
+  cursor: move;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  text-shadow: 1px 1px 2px #fff;
+  font-size: 0.9em;
+  font-family: 'Arial';
+}
+
+.container {
+  width: 100% !important;
+}
+
+#tooltip {
+  position: absolute;
+  pointer-events: none;
+  font-size: 0.7em;
+  font-family: 'Arial';
+  padding: 3px;
+  width: auto;
+  height: auto;
+  background-color: #F2F2F2;
+  -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
+  -mox-box-shadow: 0px 0px 0px 5px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 0px 5px rbga(0, 0, 0, 0.4);
+  pointer-events: none;
+}
+
+.value {
+  white-space: pre-line;
+  margin: 0;
+}
+
+.page-header {
+  padding: 10px;
+  margin: 20px 0 0;
+}
+
+.navbar-brand {
+  float: none;
+}
+
+.dropdown {
+  margin: 15px;
+}
+
+.highlight {
+  opacity:.5;
+    border-color:#444;
+}
+.img-thumbnail {
+  margin-bottom:4px;
+}
+
+/* css flexbox to fill the height of content panel */
+.flex {
+  display: flex;
+    display: -webkit-flex;
+    flex-grow:1;
+}
+
+.flex-col,.panel {
+    display: flex;
+    display: -webkit-flex;
+    flex: 1 100%;
+  flex-flow: column wrap;
+    margin-bottom:0;
+}
+
+.flex-grow,.panel-body {
+  display: flex;
+    -webkit-flex: 2;
+    flex: 2;
+}
+

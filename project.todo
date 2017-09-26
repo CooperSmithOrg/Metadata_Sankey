@@ -1,0 +1,17 @@
+Kuunika Project Tracking:
+
+  Aesthetics:
+  ☐ convert to eurostat style sankey
+  ☐ make sankey look triangular rather than flat/horizontal 
+  ☐ color code the study data and data inventory to differentiate them better
+
+  Functionality:
+  ☐ implement a basic fuzzy search capability that highlights/filters matches as you type (searching source & element fields by default)
+  ☐ convert data.js script to pull data from offline or Kuunika server
+  ☐ create REST api
+
+ 
+
+ Data:
+  ☐ digitize remaining paper forms - registers, etc. Outsource?
+  ☐ import LMIS & HR data to AWS server

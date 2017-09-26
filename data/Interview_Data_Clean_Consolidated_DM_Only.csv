@@ -1,0 +1,1299 @@
+ID,DH/DM,GOAL,ELEMENT,DECISION,SOURCE,SOURCE TYPE,FREQUENCY,ELEMENT DESCRIPTION,DECISION DESCRIPTION,SOURCE DESCRIPTION,LEVEL
+1001A,DM,Drugs,MI,PLAN,MI,NA,MI,Missing Information,Planning,Missing Information,Central
+1001A,DM,Drugs,MI,PLAN,MI,NA,MI,Missing Information,Planning,Missing Information,Central
+1001A,DM,Drugs,MI,DESIGN,MI,NA,MI,Missing Information,Program Design,Missing Information,Central
+1001A,DM,Drugs,MI,STAFFING,MI,NA,MI,Missing Information,Staffing/Workload,Missing Information,Central
+1001A,DM,Drugs,MI,MODEL,MI,NA,MI,Missing Information,Data Modeling,Missing Information,Central
+1001A,DM,HTC,MI,DESIGN,MI,NA,MI,Missing Information,Program Design,Missing Information,Central
+1001A,DM,HTC,MI,COORDINATE,MI,NA,MI,Missing Information,Partner/Stakeholder Coordination,Missing Information,Central
+1001A,DM,Performance management,MI,ADJUST,MI,NA,MI,Missing Information,Adjust Program Based On Performance,Missing Information,Central
+1001A,DM,Program Efficiency,MI,PLAN,BUDGET,Management Tool,MI,Missing Information,Planning,Facility or Regional Budget,Central
+1001A,DM,Program Efficiency,MI,PLAN,BUDGET,Management Tool,MI,Missing Information,Planning,Facility or Regional Budget,Central
+1001A,DM,Program Efficiency,MI,PLAN,MEETING BUDGET,Meeting or group,MI,Missing Information,Planning,Budget Meeting,Central
+1001A,DM,Program Efficiency,MI,PLAN,MEETING BUDGET,Meeting or group,MI,Missing Information,Planning,Budget Meeting,Central
+1001A,DM,Program Efficiency,MI,PLAN,SURVEY,Research,MI,Missing Information,Planning,Survey,Central
+1001A,DM,Program Efficiency,MI,PLAN,SURVEY,Research,MI,Missing Information,Planning,Survey,Central
+1001A,DM,Program Efficiency,MI,PLAN,RESEARCH,Research,MI,Missing Information,Planning,Research,Central
+1001A,DM,Program Efficiency,MI,PLAN,RESEARCH,Research,MI,Missing Information,Planning,Research,Central
+1001A,DM,Program Efficiency,MI,PLAN,CMED,Program Office or Location,MI,Missing Information,Planning,Central Monitoring and Evaluation Division (CMED),Central
+1001A,DM,Program Efficiency,MI,PLAN,CMED,Program Office or Location,MI,Missing Information,Planning,Central Monitoring and Evaluation Division (CMED),Central
+1001A,DM,Program Efficiency,MI,BUDGET,BUDGET,Management Tool,MI,Missing Information,Facility or Regional Budget,Facility or Regional Budget,Central
+1001A,DM,Program Efficiency,MI,BUDGET,BUDGET,Management Tool,MI,Missing Information,Facility or Regional Budget,Facility or Regional Budget,Central
+1001A,DM,Program Efficiency,MI,BUDGET,MEETING BUDGET,Meeting or group,MI,Missing Information,Facility or Regional Budget,Budget Meeting,Central
+1001A,DM,Program Efficiency,MI,BUDGET,MEETING BUDGET,Meeting or group,MI,Missing Information,Facility or Regional Budget,Budget Meeting,Central
+1001A,DM,Program Efficiency,MI,BUDGET,SURVEY,Research,MI,Missing Information,Facility or Regional Budget,Survey,Central
+1001A,DM,Program Efficiency,MI,BUDGET,SURVEY,Research,MI,Missing Information,Facility or Regional Budget,Survey,Central
+1001A,DM,Program Efficiency,MI,BUDGET,RESEARCH,Research,MI,Missing Information,Facility or Regional Budget,Research,Central
+1001A,DM,Program Efficiency,MI,BUDGET,RESEARCH,Research,MI,Missing Information,Facility or Regional Budget,Research,Central
+1001A,DM,Program Efficiency,MI,BUDGET,CMED,Program Office or Location,MI,Missing Information,Facility or Regional Budget,Central Monitoring and Evaluation Division (CMED),Central
+1001A,DM,Program Efficiency,MI,BUDGET,CMED,Program Office or Location,MI,Missing Information,Facility or Regional Budget,Central Monitoring and Evaluation Division (CMED),Central
+1003A,DM,Drugs,TREAT,DRUG SUPPLY,SUPVISIT,Management Tool,QUARTERLY,Patients Treated,Drug Supply,Data Is Accessed During Supervision Visits,Central
+1003A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,SUPVISIT,Management Tool,QUARTERLY,Drug Supply,Drug Supply,Data Is Accessed During Supervision Visits,Central
+1003A,DM,HTC,TEST HIV,PROGTARGET,MI,NA,MI,Test HIV,Program Targeting,Missing Information,Central
+1003A,DM,HTC,DRUG SUPPLY,PROGTARGET,MI,NA,MI,Drug Supply,Program Targeting,Missing Information,Central
+1003A,DM,HTC,DRUG EXPIRY,PROGTARGET,MI,NA,MI,Drug Expiry,Program Targeting,Missing Information,Central
+1003A,DM,HTC,DRUG STOCKOUT,PROGTARGET,MI,NA,MI,Drug Stock Out,Program Targeting,Missing Information,Central
+1003A,DM,Linkage,MI,STANDARD,MI,NA,MI,Missing Information,Standardize Program,Missing Information,Central
+1003A,DM,Retention,MI,STANDARD,MI,NA,MI,Missing Information,Standardize Program,Missing Information,Central
+1003A,DM,Performance management,TREAT,PROGPERFORM,MI,NA,MI,Patients Treated,Program Performance,Missing Information,Central
+1003A,DM,Program Efficiency,TREAT,RESMOB,MI,NA,MI,Patients Treated,Resource Mobilization,Missing Information,Central
+1006A,DM,Drugs,MI,PROTOADHERE,PARTNER,External Partner,QUARTERLY,Missing Information,Protocol Adherence,An organization or group that partners with the Ministry.,Central
+1006A,DM,Drugs,MI,PROTOADHERE,PARTNER,External Partner,QUARTERLY,Missing Information,Protocol Adherence,An organization or group that partners with the Ministry.,Central
+1006A,DM,Drugs,MI,PROTOADHERE,PARTNER,External Partner,QUARTERLY,Missing Information,Protocol Adherence,An organization or group that partners with the Ministry.,Central
+1006A,DM,Drugs,MI,PROTOADHERE,OFF MEUNIT,Program Office or Location,QUARTERLY,Missing Information,Protocol Adherence,Monitoring and Evaluation Unit,Central
+1006A,DM,Drugs,MI,PROTOADHERE,OFF MEUNIT,Program Office or Location,QUARTERLY,Missing Information,Protocol Adherence,Monitoring and Evaluation Unit,Central
+1006A,DM,Drugs,MI,PROTOADHERE,OFF MEUNIT,Program Office or Location,QUARTERLY,Missing Information,Protocol Adherence,Monitoring and Evaluation Unit,Central
+1006A,DM,HTC,MAP,PROGPERFORM,PROGPERFORM,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Program Performance,Central
+1006A,DM,HTC,MAP,PROGPERFORM,PROGPERFORM,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Program Performance,Central
+1006A,DM,HTC,MAP,PROGPERFORM,PROGPERFORM,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Program Performance,Central
+1006A,DM,HTC,MAP,PROGPERFORM,PROGPERFORM,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Program Performance,Central
+1006A,DM,HTC,MAP,PROGPERFORM,ANECDOTE,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Anecdotal Information,Central
+1006A,DM,HTC,MAP,PROGPERFORM,ANECDOTE,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Anecdotal Information,Central
+1006A,DM,HTC,MAP,PROGPERFORM,ANECDOTE,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Anecdotal Information,Central
+1006A,DM,HTC,MAP,PROGPERFORM,ANECDOTE,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Anecdotal Information,Central
+1006A,DM,HTC,MAP,PROGPERFORM,PARTNER,External Partner,QUARTERLY,Map Survival Mechanism,Program Performance,An organization or group that partners with the Ministry.,Central
+1006A,DM,HTC,MAP,PROGPERFORM,PARTNER,External Partner,QUARTERLY,Map Survival Mechanism,Program Performance,An organization or group that partners with the Ministry.,Central
+1006A,DM,HTC,MAP,PROGPERFORM,PARTNER,External Partner,QUARTERLY,Map Survival Mechanism,Program Performance,An organization or group that partners with the Ministry.,Central
+1006A,DM,HTC,MAP,PROGPERFORM,PARTNER,External Partner,QUARTERLY,Map Survival Mechanism,Program Performance,An organization or group that partners with the Ministry.,Central
+1006A,DM,HTC,MAP,PROGPERFORM,MAPPING,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Mapping,Central
+1006A,DM,HTC,MAP,PROGPERFORM,MAPPING,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Mapping,Central
+1006A,DM,HTC,MAP,PROGPERFORM,MAPPING,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Mapping,Central
+1006A,DM,HTC,MAP,PROGPERFORM,MAPPING,Other,QUARTERLY,Map Survival Mechanism,Program Performance,Mapping,Central
+1006A,DM,HTC,MAP,UPTAKE,PROGPERFORM,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Program Performance,Central
+1006A,DM,HTC,MAP,UPTAKE,PROGPERFORM,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Program Performance,Central
+1006A,DM,HTC,MAP,UPTAKE,PROGPERFORM,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Program Performance,Central
+1006A,DM,HTC,MAP,UPTAKE,PROGPERFORM,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Program Performance,Central
+1006A,DM,HTC,MAP,UPTAKE,ANECDOTE,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Anecdotal Information,Central
+1006A,DM,HTC,MAP,UPTAKE,ANECDOTE,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Anecdotal Information,Central
+1006A,DM,HTC,MAP,UPTAKE,ANECDOTE,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Anecdotal Information,Central
+1006A,DM,HTC,MAP,UPTAKE,ANECDOTE,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Anecdotal Information,Central
+1006A,DM,HTC,MAP,UPTAKE,PARTNER,External Partner,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,HTC,MAP,UPTAKE,PARTNER,External Partner,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,HTC,MAP,UPTAKE,PARTNER,External Partner,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,HTC,MAP,UPTAKE,PARTNER,External Partner,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,HTC,MAP,UPTAKE,MAPPING,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Mapping,Central
+1006A,DM,HTC,MAP,UPTAKE,MAPPING,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Mapping,Central
+1006A,DM,HTC,MAP,UPTAKE,MAPPING,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Mapping,Central
+1006A,DM,HTC,MAP,UPTAKE,MAPPING,Other,QUARTERLY,Map Survival Mechanism,Increase Uptake/Demand Creation,Mapping,Central
+1006A,DM,Linkage,MI,LINK,BBSS,Other,MI,Missing Information,Link Partners And Programs,BBSS,Central
+1006A,DM,Linkage,MI,LINK,SYS DHIS2,Electronic System,MI,Missing Information,Link Partners And Programs,DHIS2,Central
+1006A,DM,Linkage,MI,LINK,SURVEY SEN,Research,MI,Missing Information,Link Partners And Programs,Sentinel Survey,Central
+1006A,DM,Retention,MI,PROGTARGET,SYS DHIS2,Electronic System,MI,Missing Information,Program Targeting,DHIS2,Central
+1006A,DM,Retention,MI,PROGTARGET,PARTNER,External Partner,MI,Missing Information,Program Targeting,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC,UPTAKE,RESEARCH,Research,MI,Reached Through SBC,Increase Uptake/Demand Creation,Research,Central
+1006A,DM,VMMC,SBC,UPTAKE,RESEARCH,Research,MI,Reached Through SBC,Increase Uptake/Demand Creation,Research,Central
+1006A,DM,VMMC,SBC,UPTAKE,PARTNER,External Partner,MI,Reached Through SBC,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC,UPTAKE,PARTNER,External Partner,MI,Reached Through SBC,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC YIELD,UPTAKE,RESEARCH,Research,MI,SBC Yield,Increase Uptake/Demand Creation,Research,Central
+1006A,DM,VMMC,SBC YIELD,UPTAKE,RESEARCH,Research,MI,SBC Yield,Increase Uptake/Demand Creation,Research,Central
+1006A,DM,VMMC,SBC YIELD,UPTAKE,PARTNER,External Partner,MI,SBC Yield,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC YIELD,UPTAKE,PARTNER,External Partner,MI,SBC Yield,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC APPROACH,UPTAKE,RESEARCH,Research,MI,SBC Approach,Increase Uptake/Demand Creation,Research,Central
+1006A,DM,VMMC,SBC APPROACH,UPTAKE,RESEARCH,Research,MI,SBC Approach,Increase Uptake/Demand Creation,Research,Central
+1006A,DM,VMMC,SBC APPROACH,UPTAKE,PARTNER,External Partner,MI,SBC Approach,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC APPROACH,UPTAKE,PARTNER,External Partner,MI,SBC Approach,Increase Uptake/Demand Creation,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC,PRIORITIZE,RESEARCH,Research,MI,Reached Through SBC,Prioritization,Research,Central
+1006A,DM,VMMC,SBC,PRIORITIZE,RESEARCH,Research,MI,Reached Through SBC,Prioritization,Research,Central
+1006A,DM,VMMC,SBC,PRIORITIZE,PARTNER,External Partner,MI,Reached Through SBC,Prioritization,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC,PRIORITIZE,PARTNER,External Partner,MI,Reached Through SBC,Prioritization,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC YIELD,PRIORITIZE,RESEARCH,Research,MI,SBC Yield,Prioritization,Research,Central
+1006A,DM,VMMC,SBC YIELD,PRIORITIZE,RESEARCH,Research,MI,SBC Yield,Prioritization,Research,Central
+1006A,DM,VMMC,SBC YIELD,PRIORITIZE,PARTNER,External Partner,MI,SBC Yield,Prioritization,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC YIELD,PRIORITIZE,PARTNER,External Partner,MI,SBC Yield,Prioritization,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC APPROACH,PRIORITIZE,RESEARCH,Research,MI,SBC Approach,Prioritization,Research,Central
+1006A,DM,VMMC,SBC APPROACH,PRIORITIZE,RESEARCH,Research,MI,SBC Approach,Prioritization,Research,Central
+1006A,DM,VMMC,SBC APPROACH,PRIORITIZE,PARTNER,External Partner,MI,SBC Approach,Prioritization,An organization or group that partners with the Ministry.,Central
+1006A,DM,VMMC,SBC APPROACH,PRIORITIZE,PARTNER,External Partner,MI,SBC Approach,Prioritization,An organization or group that partners with the Ministry.,Central
+1006A,DM,PMTCT,MI,UPTAKE,RPT LAHAF,Report,MI,Missing Information,Increase Uptake/Demand Creation,LAHARF Report,Central
+1006A,DM,PMTCT,MI,UPTAKE,SYS HMIS,Electronic System,MI,Missing Information,Increase Uptake/Demand Creation,HMIS,Central
+1006A,DM,PMTCT,MI,UPTAKE,SYS DHIS2,Electronic System,MI,Missing Information,Increase Uptake/Demand Creation,DHIS2,Central
+1006A,DM,Resource targeting,MI,MAP,RPT LAHAF,Report,MI,Missing Information,Map Survival Mechanism,LAHARF Report,Central
+1006A,DM,Resource targeting,MI,MAP,SYS HMIS,Electronic System,MI,Missing Information,Map Survival Mechanism,HMIS,Central
+1006A,DM,Resource targeting,MI,MAP,SYS DHIS2,Electronic System,MI,Missing Information,Map Survival Mechanism,DHIS2,Central
+1006A,DM,Resource targeting,MI,COORDINATE,SYS HMIS,Electronic System,MI,Missing Information,Partner/Stakeholder Coordination,HMIS,Central
+1006A,DM,Resource targeting,MI,COORDINATE,SYS DHIS2,Electronic System,MI,Missing Information,Partner/Stakeholder Coordination,DHIS2,Central
+1006A,DM,Resource targeting,MI,COORDINATE,RPT SUPER,Report,MI,Missing Information,Partner/Stakeholder Coordination,Supervision Report,Central
+1006A,DM,Performance management,MI,STAFFING,TWG,Meeting or group,MI,Missing Information,Staffing/Workload,Technical Working Group,Central
+1006A,DM,Performance management,MI,STAFFING,MEETING,Meeting or group,MI,Missing Information,Staffing/Workload,Meeting,Central
+1006A,DM,Performance management,MI,SUPERVISION,TWG,Meeting or group,MI,Missing Information,Supervision,Technical Working Group,Central
+1006A,DM,Performance management,MI,SUPERVISION,MEETING,Meeting or group,MI,Missing Information,Supervision,Meeting,Central
+1006A,DM,Performance management,MI,FEEDBACK,TWG,Meeting or group,MI,Missing Information,Provide Feedback,Technical Working Group,Central
+1006A,DM,Performance management,MI,FEEDBACK,MEETING,Meeting or group,MI,Missing Information,Provide Feedback,Meeting,Central
+1006A,DM,Program Efficiency,MI,PRIORITIZE,MI,NA,MI,Missing Information,Prioritization,Missing Information,Central
+1007A,DM,Drugs,TREAT,RESMOB,SUPVISIT,Management Tool,QUARTERLY,Patients Treated,Resource Mobilization,Data Is Accessed During Supervision Visits,Central
+1007A,DM,Drugs,TREAT,RESMOB,PER FACINCHGE,Person,QUARTERLY,Patients Treated,Resource Mobilization,Facility in Chart,Central
+1007A,DM,Drugs,TREAT,RESMOB,FAC,Program Office or Location,QUARTERLY,Patients Treated,Resource Mobilization,Facility,Central
+1007A,DM,Drugs,DRUG SUPPLY,RESMOB,SUPVISIT,Management Tool,QUARTERLY,Drug Supply,Resource Mobilization,Data Is Accessed During Supervision Visits,Central
+1007A,DM,Drugs,DRUG SUPPLY,RESMOB,PER FACINCHGE,Person,QUARTERLY,Drug Supply,Resource Mobilization,Facility in Chart,Central
+1007A,DM,Drugs,DRUG SUPPLY,RESMOB,FAC,Program Office or Location,QUARTERLY,Drug Supply,Resource Mobilization,Facility,Central
+1007A,DM,Drugs,DRUG CONSUMP,RESMOB,SUPVISIT,Management Tool,QUARTERLY,Drug Consumption,Resource Mobilization,Data Is Accessed During Supervision Visits,Central
+1007A,DM,Drugs,DRUG CONSUMP,RESMOB,PER FACINCHGE,Person,QUARTERLY,Drug Consumption,Resource Mobilization,Facility in Chart,Central
+1007A,DM,Drugs,DRUG CONSUMP,RESMOB,FAC,Program Office or Location,QUARTERLY,Drug Consumption,Resource Mobilization,Facility,Central
+1007A,DM,Drugs,NEWCASE,RESMOB,SUPVISIT,Management Tool,QUARTERLY,New Cases,Resource Mobilization,Data Is Accessed During Supervision Visits,Central
+1007A,DM,Drugs,NEWCASE,RESMOB,PER FACINCHGE,Person,QUARTERLY,New Cases,Resource Mobilization,Facility in Chart,Central
+1007A,DM,Drugs,NEWCASE,RESMOB,FAC,Program Office or Location,QUARTERLY,New Cases,Resource Mobilization,Facility,Central
+1007A,DM,HTC,TEST HIV,DRUG SUPPLY,FAC,Program Office or Location,QUARTERLY,Test HIV,Drug Supply,Facility,Central
+1007A,DM,HTC,TEST HIV,DRUG SUPPLY,SYS DATABASE,Electronic System,QUARTERLY,Test HIV,Drug Supply,Database,Central
+1007A,DM,HTC,TEST HIV,DRUG SUPPLY,SUPPLYLIST,,QUARTERLY,Test HIV,Drug Supply,Supply List,Central
+1007A,DM,Linkage,TEST HIV,TREATINIT,MI,NA,MI,Test HIV,Treatment Initiation,Missing Information,Central
+1007A,DM,Resource targeting,MI,DRUG SUPPLY,MI,NA,MI,Missing Information,Drug Supply,Missing Information,Central
+1007A,DM,Performance management,DRUG SUPPLY,DRUG SUPPLY,MI,NA,MI,Drug Supply,Drug Supply,Missing Information,Central
+1007A,DM,Performance management,DRUG STOCKOUT,DRUG SUPPLY,MI,NA,MI,Drug Stock Out,Drug Supply,Missing Information,Central
+1007A,DM,Performance management,DRUG EXPIRY,DRUG SUPPLY,MI,NA,MI,Drug Expiry,Drug Supply,Missing Information,Central
+1007A,DM,Performance management,TEST HIV,DRUG SUPPLY,MI,NA,MI,Test HIV,Drug Supply,Missing Information,Central
+1007A,DM,Program Efficiency,MI,PROBLEMSOLVE,MI,NA,MI,Missing Information,Problem Solve,Missing Information,Central
+1008A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,RPT LMIS,Report,MONTH Q,Drug Supply,Drug Supply,LMIS Report,Central
+1008A,DM,HTC,DRUG STOCKOUT,DRUG SUPPLY,PER SUPPLY,Person,MONTHLY,Drug Stock Out,Drug Supply,Supply Chain Manager,Central
+1008A,DM,HTC,DRUG SUPPLY,DRUG SUPPLY,PER SUPPLY,Person,MONTHLY,Drug Supply,Drug Supply,Supply Chain Manager,Central
+1009A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,SUPVISIT,Management Tool,QUARTERLY,Drug Supply,Drug Supply,Data Is Accessed During Supervision Visits,Central
+1009A,DM,HTC,MI,MANAGE,SYS DHIS2,Electronic System,MI,Missing Information,Manage Staff And Facilities,DHIS2,Central
+1009A,DM,Linkage,MI,LINK,MI,NA,MI,Missing Information,Link Partners And Programs,Missing Information,Central
+1009A,DM,Linkage,MI,TREATINIT,MI,NA,MI,Missing Information,Treatment Initiation,Missing Information,Central
+1009A,DM,Retention,MI,GAP,REVIEW DIP,Meeting or group,MI,Missing Information,Identify Gap,DIP Review,Central
+1009A,DM,Retention,MI,GAP,REVIEW ZONE,Meeting or group,MI,Missing Information,Identify Gap,Zonal Review,Central
+1009A,DM,VMMC,MI,MI,SYS DHIS2,Electronic System,MI,Missing Information,Missing Information,DHIS2,Central
+1009A,DM,VMMC,MI,MI,SYS DHIS2,Electronic System,MI,Missing Information,Missing Information,DHIS2,Central
+1009A,DM,Resource targeting,MI,DRUG SUPPLY,MI,NA,MI,Missing Information,Drug Supply,Missing Information,Central
+1009A,DM,Performance management,MI,GAP,SUPVISIT,Management Tool,QUARTERLY,Missing Information,Identify Gap,Data Is Accessed During Supervision Visits,Central
+1009A,DM,Performance management,MI,GAP,REVIEW DIP,Meeting or group,QUARTERLY,Missing Information,Identify Gap,DIP Review,Central
+1009A,DM,Performance management,MI,PROGPERFORM,SUPVISIT,Management Tool,QUARTERLY,Missing Information,Program Performance,Data Is Accessed During Supervision Visits,Central
+1009A,DM,Performance management,MI,PROGPERFORM,REVIEW DIP,Meeting or group,QUARTERLY,Missing Information,Program Performance,DIP Review,Central
+2102A,DM,Drugs,MEETING HTC,UPTAKE,PARTNER CBO,External Partner,QUARTERLY,Meetings on HTC,Increase Uptake/Demand Creation,Community Based Organization,District
+2102A,DM,Drugs,MEETING HTC,UPTAKE,PARTNER CBO,External Partner,QUARTERLY,Meetings on HTC,Increase Uptake/Demand Creation,Community Based Organization,District
+2102A,DM,Drugs,MEETING HTC,UPTAKE,FORM,Report,QUARTERLY,Meetings on HTC,Increase Uptake/Demand Creation,Form,District
+2102A,DM,Drugs,MEETING HTC,UPTAKE,FORM,Report,QUARTERLY,Meetings on HTC,Increase Uptake/Demand Creation,Form,District
+2102A,DM,Drugs,MEETING HTC,UPTAKE,RPT LAHAF,Report,QUARTERLY,Meetings on HTC,Increase Uptake/Demand Creation,LAHARF Report,District
+2102A,DM,Drugs,MEETING HTC,UPTAKE,RPT LAHAF,Report,QUARTERLY,Meetings on HTC,Increase Uptake/Demand Creation,LAHARF Report,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,PARTNER CBO,External Partner,QUARTERLY,Meetings on ARV,Increase Uptake/Demand Creation,Community Based Organization,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,PARTNER CBO,External Partner,QUARTERLY,Meetings on ARV,Increase Uptake/Demand Creation,Community Based Organization,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,FORM,Report,QUARTERLY,Meetings on ARV,Increase Uptake/Demand Creation,Form,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,FORM,Report,QUARTERLY,Meetings on ARV,Increase Uptake/Demand Creation,Form,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,RPT LAHAF,Report,QUARTERLY,Meetings on ARV,Increase Uptake/Demand Creation,LAHARF Report,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,RPT LAHAF,Report,QUARTERLY,Meetings on ARV,Increase Uptake/Demand Creation,LAHARF Report,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,PARTNER CBO,External Partner,QUARTERLY,Meetings on ART,Increase Uptake/Demand Creation,Community Based Organization,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,PARTNER CBO,External Partner,QUARTERLY,Meetings on ART,Increase Uptake/Demand Creation,Community Based Organization,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,FORM,Report,QUARTERLY,Meetings on ART,Increase Uptake/Demand Creation,Form,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,FORM,Report,QUARTERLY,Meetings on ART,Increase Uptake/Demand Creation,Form,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,RPT LAHAF,Report,QUARTERLY,Meetings on ART,Increase Uptake/Demand Creation,LAHARF Report,District
+2102A,DM,Drugs,MEETING ARV,UPTAKE,RPT LAHAF,Report,QUARTERLY,Meetings on ART,Increase Uptake/Demand Creation,LAHARF Report,District
+2102A,DM,HTC,PREVALENCE,LINK,RPT SECTOR,Report,QUARTERLY,Prevalence Rate HIV,Link Partners And Programs,Sector Report,District
+2102A,DM,HTC,PREVALENCE,LINK,PARTNER NGO,External Partner,QUARTERLY,Prevalence Rate HIV,Link Partners And Programs,Non-governmental Organization,District
+2102A,DM,HTC,PREVALENCE,LINK,RPT SECTOR,Report,QUARTERLY,HIV prevalence rate among female sex workers,Link Partners And Programs,Sector Report,District
+2102A,DM,HTC,PREVALENCE,LINK,PARTNER NGO,External Partner,QUARTERLY,HIV prevalence rate among female sex workers,Link Partners And Programs,Non-governmental Organization,District
+2102A,DM,HTC,PREVALENCE,PROGTARGET,RPT SECTOR,Report,QUARTERLY,Prevalence Rate HIV,Program Targeting,Sector Report,District
+2102A,DM,HTC,PREVALENCE,PROGTARGET,PARTNER NGO,External Partner,QUARTERLY,Prevalence Rate HIV,Program Targeting,Non-governmental Organization,District
+2102A,DM,HTC,PREVALENCE,PROGTARGET,RPT SECTOR,Report,QUARTERLY,HIV prevalence rate among female sex workers,Program Targeting,Sector Report,District
+2102A,DM,HTC,PREVALENCE,PROGTARGET,PARTNER NGO,External Partner,QUARTERLY,HIV prevalence rate among female sex workers,Program Targeting,Non-governmental Organization,District
+2102A,DM,Linkage,MEETING AWARE,UPTAKE,RPT,Report,MONTHLY,Awareness Meetings Conducted,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,IEC,UPTAKE,RPT,Report,MONTHLY,IEC Materials Distributed,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,CONDOM,UPTAKE,RPT,Report,MONTHLY,Condoms Distributed,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,WORKPLACE,UPTAKE,RPT,Report,MONTHLY,Workplace Interventions Conducted,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,EXPENDITURE,UPTAKE,RPT,Report,MONTHLY,Funds Used,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,ATTENDYOUTH,UPTAKE,RPT,Report,MONTHLY,Youth Attending Youth Friendly Service In Health Facility,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,REFER,UPTAKE,RPT,Report,MONTHLY,Referral,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,TEST HIV,UPTAKE,RPT,Report,MONTHLY,Test HIV,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,TEST HIVPOS,UPTAKE,RPT,Report,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,TEST HIVNEG,UPTAKE,RPT,Report,MONTHLY,Test HIV Negative,Increase Uptake/Demand Creation,Report,District
+2102A,DM,Linkage,HBC VISIT,HBC,FORM,Report,MONTHLY,Home Based Care Visit,Home Based Care,Form,District
+2102A,DM,Linkage,HBC VISIT,HBC,FORM,Report,MONTHLY,Home Based Care Visit,Home Based Care,Form,District
+2102A,DM,Linkage,HBC SUPPORT,HBC,FORM,Report,MONTHLY,Home Based Care Support,Home Based Care,Form,District
+2102A,DM,Linkage,HBC SUPPORT,HBC,FORM,Report,MONTHLY,Home Based Care Support,Home Based Care,Form,District
+2102A,DM,Retention,TREAT ART,LINK DIACC,OFF DHO,Program Office or Location,MONTHLY,Treatment ART,Link To District Interfaith Aids Coordinating Committee For Treatment Adherence,District Health Office,District
+2102A,DM,Retention,TREAT ART,LINK DIACC,PER COOR ART,Person,MONTHLY,Treatment ART,Link To District Interfaith Aids Coordinating Committee For Treatment Adherence,ART Coordinator,District
+2102A,DM,Retention,TREAT ART,LINK DIACC,FORM,Report,MONTHLY,Treatment ART,Link To District Interfaith Aids Coordinating Committee For Treatment Adherence,Form,District
+2102A,DM,Retention,DEFAULT,LINK DIACC,OFF DHO,Program Office or Location,MONTHLY,Defaulters,Link To District Interfaith Aids Coordinating Committee For Treatment Adherence,District Health Office,District
+2102A,DM,Retention,DEFAULT,LINK DIACC,PER COOR ART,Person,MONTHLY,Defaulters,Link To District Interfaith Aids Coordinating Committee For Treatment Adherence,ART Coordinator,District
+2102A,DM,Retention,DEFAULT,LINK DIACC,FORM,Report,MONTHLY,Defaulters,Link To District Interfaith Aids Coordinating Committee For Treatment Adherence,Form,District
+2102A,DM,VMMC,MI,SENS,MI,NA,MI,Missing Information,Sensitization,Missing Information,District
+2102A,DM,VMMC,MI,UPTAKE,MI,NA,MI,Missing Information,Increase Uptake/Demand Creation,Missing Information,District
+2102A,DM,VMMC,SENS TARPOP,SENS,FORM,Report,MONTHLY,Sensitized By Target Population,Sensitization,Form,District
+2102A,DM,PMTCT,MEETING PMTCT,MI,FORM,Report,MONTHLY,Number of meetings on PMTCT conducted,Missing Information,Form,District
+2102A,DM,PMTCT,MEETING PMTCT TARPOP,MI,FORM,Report,MONTHLY,Number of meetings on PMTCT conducted with the target population,Missing Information,Form,District
+2102A,DM,PMTCT,SENS PMTCT,MI,FORM,Report,MONTHLY,Sensitization on PMTCT,Missing Information,Form,District
+2102A,DM,PMTCT,TREAT B+,MI,FORM,Report,MONTHLY,Treat B+,Missing Information,Form,District
+2102A,DM,PMTCT,HIVEXPO CHILD HIVPOS,MI,FORM,Report,MONTHLY,Exposed Children HIV Positive,Missing Information,Form,District
+2102A,DM,PMTCT,MEETING AWARE PMTCT,MI,FORM,Report,MONTHLY,Awareness Meetings Conducted on PMTCT,Missing Information,Form,District
+2102A,DM,PMTCT,TEST HIVPOS MOTHER,MI,OFF DHO,Program Office or Location,MONTHLY,Mothers Tested HIV Positive,Missing Information,District Health Office,District
+2102A,DM,PMTCT,TEST HIVPOS MOTHER,MI,PER COOR ART,Person,MONTHLY,Mothers Tested HIV Positive,Missing Information,ART Coordinator,District
+2102A,DM,PMTCT,TREAT,MI,OFF DHO,Program Office or Location,MONTHLY,Patients Treated,Missing Information,District Health Office,District
+2102A,DM,PMTCT,TREAT,MI,PER COOR ART,Person,MONTHLY,Patients Treated,Missing Information,ART Coordinator,District
+2102A,DM,Resource targeting,NGOEXIST,LINK,PARTNER NGO,External Partner,ASNEED,NGOs Existing In An Area,Link Partners And Programs,Non-governmental Organization,District
+2102A,DM,Resource targeting,NGOEXIST,LINK,OFF MEUNIT,Program Office or Location,ASNEED,NGOs Existing In An Area,Link Partners And Programs,Monitoring and Evaluation Unit,District
+2102A,DM,Resource targeting,NGOEXIST,LINK,PARTNER NGO,External Partner,ASNEED,NGOs Existing In An Area,Link Partners And Programs,Non-governmental Organization,District
+2102A,DM,Resource targeting,NGOEXIST,LINK,PROPOSAL,,ASNEED,NGOs Existing In An Area,Link Partners And Programs,Proposal,District
+2102A,DM,Resource targeting,NGOEXIST,LINK,RPT PARTNER,External Partner,ASNEED,NGOs Existing In An Area,Link Partners And Programs,Partner Report,District
+2102A,DM,Performance management,INTERVENTION,PROGPERFORM,RPT,Report,QUARTERLY,Initiated on PMTCT,Program Performance,Report,District
+2102A,DM,Performance management,RPTRATE,PROGPERFORM,RPT,Report,QUARTERLY,Reporting Rate,Program Performance,Report,District
+2102A,DM,Program Efficiency,TEST HIV TARPOP,RESMOB,PER COOR HTC,Person,MONTHLY,Number of the target population tested for HIV,Resource Mobilization,HTC Coordinator,District
+2102A,DM,Program Efficiency,TEST HIV TARPOP,PROGTARGET,PER COOR HTC,Person,MONTHLY,Number of the target population tested for HIV,Program Targeting,HTC Coordinator,District
+2104A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Consumption,Drug Supply,Stock Card,District
+2104A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,FORM LMIS,Report,MONTHLY,Drug Consumption,Drug Supply,LMIS Form,District
+2104A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Supply,Drug Supply,Stock Card,District
+2104A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,FORM LMIS,Report,MONTHLY,Drug Supply,Drug Supply,LMIS Form,District
+2104A,DM,Drugs,DRUG EXPIRY,DRUG SUPPLY,OFF DRUG,Program Office or Location,MONTHLY,Drug Expiry,Drug Supply,Drug Store,District
+2104A,DM,Drugs,DRUG EXPIRY,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Expiry,Drug Supply,Stock Card,District
+2104A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,OFF DRUG,Program Office or Location,MONTHLY,Drug Consumption,Drug Supply,Drug Store,District
+2104A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Consumption,Drug Supply,Stock Card,District
+2104A,DM,HTC,TEST HIV,DRUG SUPPLY,REG CLNTDTA,Register,MONTHLY,Test HIV,Drug Supply,Client Data Register,District
+2104A,DM,HTC,TEST HIV,DRUG SUPPLY,REG CLNTDTA,Register,MONTHLY,Test HIV,Drug Supply,Client Data Register,District
+2104A,DM,HTC,TEST HIV,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Test HIV,Drug Supply,Stock Card,District
+2104A,DM,HTC,TEST HIV,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Test HIV,Drug Supply,Stock Card,District
+2104A,DM,HTC,TESTKIT,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Test Kits Used,Drug Supply,Stock Card,District
+2104A,DM,HTC,TESTKIT,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Test Kits Used,Drug Supply,Stock Card,District
+2104A,DM,HTC,TESTKIT,DRUG SUPPLY,REG CLNTDTA,Register,MONTHLY,Test Kits Used,Drug Supply,Client Data Register,District
+2104A,DM,HTC,TESTKIT,DRUG SUPPLY,REG CLNTDTA,Register,MONTHLY,Test Kits Used,Drug Supply,Client Data Register,District
+2104A,DM,HTC,TEST HIVPOS,DRUG SUPPLY,REG CLNTDTA,Register,MONTHLY,Test HIV Positive,Drug Supply,Client Data Register,District
+2104A,DM,HTC,TEST HIVPOS,DRUG SUPPLY,REG CLNTDTA,Register,MONTHLY,Test HIV Positive,Drug Supply,Client Data Register,District
+2104A,DM,HTC,TEST HIVPOS,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Test HIV Positive,Drug Supply,Stock Card,District
+2104A,DM,HTC,TEST HIVPOS,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Test HIV Positive,Drug Supply,Stock Card,District
+2104A,DM,Linkage,TEST CD4COUNT,DRUG EXPIRY,MI,NA,MI,Test CD4 Count,Drug Expiry,Missing Information,District
+2104A,DM,PMTCT,DRUG CONSUMP,DRUG SUPPLY,REG DRUG,Register,MONTHLY,Drug Consumption,Drug Supply,Drug Register,District
+2104A,DM,PMTCT,CASELOAD,DRUG SUPPLY,REG PATIENT,Register,ASNEED,Caseload,Drug Supply,Patient Register,District
+2104A,DM,Resource targeting,POPULATION,PRIORITIZE RESOURCE,RPT LOCPOP,Report,ASNEED,Population,Resource Prioritization,Local Population Report,District
+2104A,DM,Resource targeting,MORBIDITY,PRIORITIZE RESOURCE,RPT CONSUMP,Report,ASNEED,Morbidity,Resource Prioritization,Consumption report,District
+2104A,DM,Performance management,PHARMSTATE,DRUG MANAGE,RPT LMIS,Report,QUARTERLY,State Of Pharmacy,Drug Management,LMIS Report,District
+2104A,DM,Performance management,DRUG EXPIRY,DRUG MANAGE,RPT LMIS,Report,QUARTERLY,Drug Expiry,Drug Management,LMIS Report,District
+2104A,DM,Performance management,DRUG MANAGE,DRUG MANAGE,RPT LMIS,Report,MONTHLY,Drug Management,Drug Management,LMIS Report,District
+2104A,DM,Performance management,DRUG MANAGE,DRUG MANAGE,RPT FACILITY,Report,MONTHLY,Drug Management,Drug Management,Faciltiy Report,District
+2104A,DM,Performance management,DRUG EXPIRY,DRUG MANAGE,RPT LMIS,Report,MONTHLY,Drug Expiry,Drug Management,LMIS Report,District
+2104A,DM,Program Efficiency,DRUG CONSUMP,DRUG CONSUMP,RPT LMIS,Report,MONTHLY,Drug Consumption,Drug Consumption,LMIS Report,District
+2104A,DM,Program Efficiency,DRUG CONSUMP,DRUG CONSUMP,RPT LMIS,Report,MONTHLY,Drug Consumption,Drug Consumption,LMIS Report,District
+2104A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,RPT LMIS,Report,MONTHLY,Drug Supply,Drug Supply,LMIS Report,District
+2104A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,RPT LMIS,Report,MONTHLY,Drug Supply,Drug Supply,LMIS Report,District
+2104A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,RPT FACILITY,Report,MONTHLY,Drug Supply,Drug Supply,Faciltiy Report,District
+2104A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,RPT FACILITY,Report,MONTHLY,Drug Supply,Drug Supply,Faciltiy Report,District
+2104A,DM,Program Efficiency,DRUG CONSUMP,DRUG MANAGE,RPT LMIS,Report,MONTHLY,Drug Consumption,Drug Management,LMIS Report,District
+2104A,DM,Program Efficiency,DRUG CONSUMP,DRUG MANAGE,RPT LMIS,Report,MONTHLY,Drug Consumption,Drug Management,LMIS Report,District
+2104A,DM,Program Efficiency,DRUG SUPPLY,DRUG MANAGE,RPT LMIS,Report,MONTHLY,Drug Supply,Drug Management,LMIS Report,District
+2104A,DM,Program Efficiency,DRUG SUPPLY,DRUG MANAGE,RPT LMIS,Report,MONTHLY,Drug Supply,Drug Management,LMIS Report,District
+2105A,DM,Drugs,TREAT,DQ,RPT FACILITY,Report,QUARTERLY,Patients Treated,Data Quality Check,Faciltiy Report,District
+2105A,DM,Drugs,TREAT,DQ,SUPPLYLIST,,QUARTERLY,Patients Treated,Data Quality Check,Supply List,District
+2105A,DM,Drugs,DRUG EXPIRY,DRUG SUPPLY,PER PHARM AST,Person,ASNEED,Drug Expiry,Drug Supply,Pharmacy Assistant,District
+2105A,DM,HTC,TEST HIVPOS,TREATINIT,REG,Register,MONTH Q,Test HIV Positive,Treatment Initiation,Register,District
+2105A,DM,HTC,TEST HIVPOS,TREATINIT,SYS EDS,Electronic System,MONTH Q,Test HIV Positive,Treatment Initiation,Electronic Data System,District
+2105A,DM,HTC,TEST HIVPOS,TREATINIT,RPT,Report,MONTH Q,Test HIV Positive,Treatment Initiation,Report,District
+2105A,DM,HTC,TEST HIVPOS PLW,TREATINIT,REG,Register,MONTH Q,Number of pregnant and lactating women who tested HIV positive,Treatment Initiation,Register,District
+2105A,DM,HTC,TEST HIVPOS PLW,TREATINIT,SYS EDS,Electronic System,MONTH Q,Number of pregnant and lactating women who tested HIV positive,Treatment Initiation,Electronic Data System,District
+2105A,DM,HTC,TEST HIVPOS PLW,TREATINIT,RPT,Report,MONTH Q,Number of pregnant and lactating women who tested HIV positive,Treatment Initiation,Report,District
+2105A,DM,HTC,TEST HIVPOS WOMEN,PROGPERFORM,REG,Register,QUARTERLY,Number of women who test HIV positive,Program Performance,Register,District
+2105A,DM,HTC,TEST HIVPOS WOMEN,PROGPERFORM,RPT,Report,QUARTERLY,Number of women who test HIV positive,Program Performance,Report,District
+2105A,DM,HTC,PREVALENCE,PROGPERFORM,REG,Register,QUARTERLY,Prevalence Rate HIV,Program Performance,Register,District
+2105A,DM,HTC,PREVALENCE,PROGPERFORM,RPT,Report,QUARTERLY,Prevalence Rate HIV,Program Performance,Report,District
+2105A,DM,Linkage,TEST HIVPOS INIT ART,ESCORT,RPT,Report,QUARTERLY,Number of individuals tested HIV positive who initiate treatment,Escort Patient To Services,Report,District
+2105A,DM,Linkage,TEST HIVPOS INIT ART,ESCORT,CARD MAS,Patient Card,QUARTERLY,Number of individuals tested HIV positive who initiate treatment,Escort Patient To Services,Master Card,District
+2105A,DM,Linkage,TREAT,ESCORT,RPT,Report,QUARTERLY,Patients Treated,Escort Patient To Services,Report,District
+2105A,DM,Linkage,TREAT,ESCORT,CARD MAS,Patient Card,QUARTERLY,Patients Treated,Escort Patient To Services,Master Card,District
+2105A,DM,Linkage,FOLLOWUP,ESCORT,RPT,Report,QUARTERLY,Default Followup,Escort Patient To Services,Report,District
+2105A,DM,Linkage,FOLLOWUP,ESCORT,CARD MAS,Patient Card,QUARTERLY,Default Followup,Escort Patient To Services,Master Card,District
+2105A,DM,Linkage,TEST TB,ESCORT,CARD MAS,Patient Card,QUARTERLY,Test TB,Escort Patient To Services,Master Card,District
+2105A,DM,Linkage,TEST TB,ESCORT,RPT,Report,QUARTERLY,Test TB,Escort Patient To Services,Report,District
+2105A,DM,Linkage,DEFAULT,REFER,RPT,Report,QUARTERLY,Defaulters,Referral,Report,District
+2105A,DM,Linkage,DEFAULT,REFER,RPT,Report,QUARTERLY,Defaulters,Referral,Report,District
+2105A,DM,Linkage,DEFAULT,REFER,CARD MAS,Patient Card,QUARTERLY,Defaulters,Referral,Master Card,District
+2105A,DM,Linkage,DEFAULT,REFER,CARD MAS,Patient Card,QUARTERLY,Defaulters,Referral,Master Card,District
+2105A,DM,Retention,DEFAULT,LINK EXPCLIENT,REG,Register,QUARTERLY,Defaulters,Link with an expert client,Register,District
+2105A,DM,Retention,DEFAULT,LINK EXPCLIENT,RPT,Report,QUARTERLY,Defaulters,Link with an expert client,Report,District
+2105A,DM,Retention,SEEK COUPLE,MALE,REG,Register,MONTH Q,Couples Seeking Service,Male Involvement,Register,District
+2105A,DM,Retention,SEEK COUPLE,MALE,RPT,Report,MONTH Q,Couples Seeking Service,Male Involvement,Report,District
+2105A,DM,PMTCT,TREAT MOTHERBABY,TREATINIT,REG ART,Register,MONTH Q,Mother Baby Pairs Enrolled,Treatment Initiation,Anti-Retroviral Treatment Register,District
+2105A,DM,PMTCT,TREAT MOTHERBABY,TREATINIT,REG HCC,Register,MONTH Q,Mother Baby Pairs Enrolled,Treatment Initiation,Health Center Committee Register,District
+2105A,DM,PMTCT,TREAT MOTHERBABY,TREATINIT,RPT,Report,MONTH Q,Mother Baby Pairs Enrolled,Treatment Initiation,Report,District
+2105A,DM,PMTCT,TREAT MOTHERBABY,TREATINIT,RPT FOLLOW,Report,MONTH Q,Mother Baby Pairs Enrolled,Treatment Initiation,Exposed Follow up,District
+2105A,DM,Resource targeting,DRUG CONSUMP,DRUG SUPPLY,MI,NA,QUARTERLY,Drug Consumption,Drug Supply,Missing Information,District
+2105A,DM,Performance management,STAFF,STAFFING,SYS DATABASE,Electronic System,ASNEED,Staff Per Facility,Staffing/Workload,Database,District
+2105A,DM,Performance management,SITE,STAFFING,SYS DATABASE,Electronic System,ASNEED,Sites Supported,Staffing/Workload,Database,District
+2105A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,RPT,Report,ASNEED,Drug Supply,Drug Supply,Report,District
+2105A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Supply,Drug Supply,Stock Card,District
+2105A,DM,Program Efficiency,DRUG EXPIRY,DRUG SUPPLY,RPT,Report,ASNEED,Drug Expiry,Drug Supply,Report,District
+2105A,DM,Program Efficiency,DRUG EXPIRY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Expiry,Drug Supply,Stock Card,District
+2107A,DM,HTC,TEST BLOOD,NONE,REG BLDDNR,Register,MONTHLY,Test Blood Donors,Not Transmitted,Blood Donor Register,District
+2107A,DM,HTC,TEST BLOOD,NONE,CARD RESLOG,Patient Card,MONTHLY,Test Blood Donors,Not Transmitted,Results Log Sheet,District
+2107A,DM,HTC,BLOODDONOR,NA,REG BLDDNR,Register,DAILY,Blood Donor,Not Available,Blood Donor Register,District
+2107A,DM,Linkage,TEST HIVPOS,TEST,CARD RESLOG,Patient Card,MONTHLY,Test HIV Positive,Number of individuals tested,Results Log Sheet,District
+2107A,DM,Linkage,TEST HIVPOS,TEST,CARD RESLOG,Patient Card,MONTHLY,Test HIV Positive,Number of individuals tested,Results Log Sheet,District
+2107A,DM,Linkage,TEST HIVPOS,TEST,CARD RESLOG,Patient Card,MONTHLY,Test HIV Positive,Number of individuals tested,Results Log Sheet,District
+2107A,DM,Linkage,CD4COUNT,TEST,CARD RESLOG,Patient Card,MONTHLY,CD4 Count,Number of individuals tested,Results Log Sheet,District
+2107A,DM,Linkage,CD4COUNT,TEST,CARD RESLOG,Patient Card,MONTHLY,CD4 Count,Number of individuals tested,Results Log Sheet,District
+2107A,DM,Linkage,CD4COUNT,TEST,CARD RESLOG,Patient Card,MONTHLY,CD4 Count,Number of individuals tested,Results Log Sheet,District
+2107A,DM,Linkage,TEST HIVPOS,TEST,CARD STOCK,Register,MONTHLY,Test HIV Positive,Number of individuals tested,Stock Card,District
+2107A,DM,Linkage,TEST HIVPOS,TEST,CARD STOCK,Register,MONTHLY,Test HIV Positive,Number of individuals tested,Stock Card,District
+2107A,DM,Linkage,TEST HIVPOS,TEST,CARD STOCK,Register,MONTHLY,Test HIV Positive,Number of individuals tested,Stock Card,District
+2107A,DM,Linkage,TEST HIVPOS,TREATINIT,REG CD4,Register,DAILY,Test HIV Positive,Treatment Initiation,CD4 Count Register,District
+2107A,DM,Linkage,PREGNANT,TREATINIT,REG CD4,Register,DAILY,Target Population Pregnant Women,Treatment Initiation,CD4 Count Register,District
+2107A,DM,Linkage,TEST CD4COUNT,TREATINIT,REG CD4,Register,DAILY,Test CD4 Count,Treatment Initiation,CD4 Count Register,District
+2107A,DM,Linkage,TEST HIVPOS REFER,REFER,CARD RESLOG,Patient Card,MONTHLY,Test HIV Positive and Referred,Referral,Results Log Sheet,District
+2107A,DM,Linkage,TEST VIRAL,TEST VIRAL,CARD RESLOG,Patient Card,DAILY,Test Viral Load,Test Viral Load,Results Log Sheet,District
+2107A,DM,Linkage,TEST VIRAL,TEST VIRAL,CARD RESLOG,Patient Card,DAILY,Test Viral Load,Test Viral Load,Results Log Sheet,District
+2107A,DM,VMMC,TEST FBV,NONE,CARD RESLOG,Patient Card,MONTHLY,Number of individuals tested through FBV,Not Transmitted,Results Log Sheet,District
+2107A,DM,Resource targeting,TESTKIT,DRUG SUPPLY,REG HTC,Register,MONTH Q,Test Kits Used,Drug Supply,HIV Testing and Counseling Register,District
+2107A,DM,Resource targeting,TESTKIT,DRUG SUPPLY,REG HTC,Register,MONTH Q,Test Kits Used,Drug Supply,HIV Testing and Counseling Register,District
+2107A,DM,Resource targeting,TESTKIT,DRUG SUPPLY,REG HTC,Register,MONTH Q,Test Kits Used,Drug Supply,HIV Testing and Counseling Register,District
+2107A,DM,Resource targeting,TESTKIT,DRUG SUPPLY,REG HTC,Register,MONTH Q,Test Kits Used,Drug Supply,HIV Testing and Counseling Register,District
+2107A,DM,Resource targeting,TESTKIT,DRUG SUPPLY,REG HTC,Register,MONTH Q,Test Kits Used,Drug Supply,HIV Testing and Counseling Register,District
+2107A,DM,Resource targeting,TESTKIT,DRUG SUPPLY,REG HTC,Register,MONTH Q,Test Kits Used,Drug Supply,HIV Testing and Counseling Register,District
+2107A,DM,Resource targeting,TESTKIT,TESTKIT,CARD STOCK,Register,DAILY M,Test Kits Used,Test Kits Used,Stock Card,District
+2107A,DM,Resource targeting,DRUG STOCKOUT,DRUG SUPPLY,CARD LABST,Patient Card,DAILY M,Drug Stock Out,Drug Supply,Laboratory Stock Card,District
+2107A,DM,Performance management,EQUIPMAINTAIN,EQUIPMAINTAIN,LOG EQUIP,,DAILY,Equipment Maintenance,Equipment Maintenance,Equipment Log,District
+2107A,DM,Performance management,EQUIPMAINTAIN,EQUIPMAINTAIN,LOG EQUIP,,DAILY,Equipment Maintenance,Equipment Maintenance,Equipment Log,District
+2107A,DM,Performance management,STAFFCOMP,MI,COMPASS,,MI,Staff Competency,Missing Information,Competency Assessment,District
+2107A,DM,Performance management,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Supply,Drug Supply,Stock Card,District
+2107A,DM,Program Efficiency,TEST,REFER,CARD STOCK,Register,DAILY,Number of individuals tested,Referral,Stock Card,District
+2107A,DM,Program Efficiency,CARD STOCK,REFER,CARD STOCK,Register,DAILY,Stock Card,Referral,Stock Card,District
+2107A,DM,N/A,TEST VIRAL,MI,REG ART,Register,MONTHLY,Test Viral Load,Missing Information,Anti-Retroviral Treatment Register,District
+2108A,DM,HTC,NEWAPPT,INCENTIVE,OFF HRDEP,Program Office or Location,MONTHLY,New Appointments,Pay Incentive To Those Tested,Human Resources Department,District
+2108A,DM,HTC,RESIGN,INCENTIVE,OFF HRDEP,Program Office or Location,MONTHLY,Resignations,Pay Incentive To Those Tested,Human Resources Department,District
+2108A,DM,HTC,MI,TESTKIT,MI,NA,WEEKLY,Missing Information,Test Kits Used,Missing Information,District
+2108A,DM,Linkage,CONSULTDAY,INCENTIVE,OFF HRDEP,Program Office or Location,MONTHLY,Medical Consultation,Pay Incentive To Those Tested,Human Resources Department,District
+2108A,DM,Linkage,MONEY,INCENTIVE,OFF HRDEP,Program Office or Location,MONTHLY,Amount Of Money Paid,Pay Incentive To Those Tested,Human Resources Department,District
+2108A,DM,Resource targeting,POPULATION,PRIORITIZE RESOURCE,OFF HMIS,Program Office or Location,MONTHLY,Population,Resource Prioritization,Health Management Information System Office,District
+2108A,DM,Performance management,NA,FUEL,PER COOR HIV,Person,DONTKNOW,Not Available,Fuel,HIV Coordinator,District
+2108A,DM,Program Efficiency,MI,PRIORITIZE RESOURCE,MI,NA,MI,Missing Information,Resource Prioritization,Missing Information,District
+2201A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,SYS LMIS,Electronic System,MONTHLY,Drug Supply,Drug Supply,LMIS,District
+2201A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,SYS LMIS,Electronic System,MONTHLY,Drug Supply,Drug Supply,LMIS,District
+2201A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,SYS LMIS,Electronic System,MONTHLY,Drug Supply,Drug Supply,LMIS,District
+2201A,DM,HTC,TEST,PROGPERFORM,OFF HMIS,Program Office or Location,MONTHLY,Number of individuals tested,Program Performance,Health Management Information System Office,District
+2201A,DM,HTC,TEST,PROGPERFORM,OFF HMIS,Program Office or Location,MONTHLY,Number of individuals tested,Program Performance,Health Management Information System Office,District
+2201A,DM,HTC,TEST,PROGPERFORM,OFF HMIS,Program Office or Location,MONTHLY,Number of individuals tested,Program Performance,Health Management Information System Office,District
+2201A,DM,HTC,TEST,PROGPERFORM,PER COOR DIP,Person,MONTHLY,Number of individuals tested,Program Performance,DIP Coordinator,District
+2201A,DM,HTC,TEST,PROGPERFORM,PER COOR DIP,Person,MONTHLY,Number of individuals tested,Program Performance,DIP Coordinator,District
+2201A,DM,HTC,TEST,PROGPERFORM,PER COOR DIP,Person,MONTHLY,Number of individuals tested,Program Performance,DIP Coordinator,District
+2201A,DM,HTC,TEST,PROGPERFORM,PER COOR HIV,Person,MONTHLY,Number of individuals tested,Program Performance,HIV Coordinator,District
+2201A,DM,HTC,TEST,PROGPERFORM,PER COOR HIV,Person,MONTHLY,Number of individuals tested,Program Performance,HIV Coordinator,District
+2201A,DM,HTC,TEST,PROGPERFORM,PER COOR HIV,Person,MONTHLY,Number of individuals tested,Program Performance,HIV Coordinator,District
+2201A,DM,HTC,TREAT,PROGPERFORM,OFF HMIS,Program Office or Location,MONTHLY,Patients Treated,Program Performance,Health Management Information System Office,District
+2201A,DM,HTC,TREAT,PROGPERFORM,OFF HMIS,Program Office or Location,MONTHLY,Patients Treated,Program Performance,Health Management Information System Office,District
+2201A,DM,HTC,TREAT,PROGPERFORM,OFF HMIS,Program Office or Location,MONTHLY,Patients Treated,Program Performance,Health Management Information System Office,District
+2201A,DM,HTC,TREAT,PROGPERFORM,PER COOR DIP,Person,MONTHLY,Patients Treated,Program Performance,DIP Coordinator,District
+2201A,DM,HTC,TREAT,PROGPERFORM,PER COOR DIP,Person,MONTHLY,Patients Treated,Program Performance,DIP Coordinator,District
+2201A,DM,HTC,TREAT,PROGPERFORM,PER COOR DIP,Person,MONTHLY,Patients Treated,Program Performance,DIP Coordinator,District
+2201A,DM,HTC,TREAT,PROGPERFORM,PER COOR HIV,Person,MONTHLY,Patients Treated,Program Performance,HIV Coordinator,District
+2201A,DM,HTC,TREAT,PROGPERFORM,PER COOR HIV,Person,MONTHLY,Patients Treated,Program Performance,HIV Coordinator,District
+2201A,DM,HTC,TREAT,PROGPERFORM,PER COOR HIV,Person,MONTHLY,Patients Treated,Program Performance,HIV Coordinator,District
+2201A,DM,Linkage,CD4COUNT,TREATINIT,OFF HMIS,Program Office or Location,QUARTERLY,CD4 Count,Treatment Initiation,Health Management Information System Office,District
+2201A,DM,Linkage,WHOSTAGE,TREATINIT,OFF HMIS,Program Office or Location,QUARTERLY,WHO Staging,Treatment Initiation,Health Management Information System Office,District
+2201A,DM,Linkage,TREAT B+,TREATINIT,OFF HMIS,Program Office or Location,QUARTERLY,Treat B+,Treatment Initiation,Health Management Information System Office,District
+2201A,DM,Linkage,TEST,TREATINIT,OFF HMIS,Program Office or Location,QUARTERLY,Number of individuals tested,Treatment Initiation,Health Management Information System Office,District
+2201A,DM,Retention,DEFAULT,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Defaulters,Default Followup,Health Management Information System Office,District
+2201A,DM,Retention,DEFAULT,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Defaulters,Default Followup,Health Management Information System Office,District
+2201A,DM,Retention,DEFAULT,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Defaulters,Default Followup,Health Management Information System Office,District
+2201A,DM,Retention,DEFAULT,FOLLOWUP,OFF HIVUNIT,Program Office or Location,QUARTERLY,Defaulters,Default Followup,HIV/AIDS Unit,District
+2201A,DM,Retention,DEFAULT,FOLLOWUP,OFF HIVUNIT,Program Office or Location,QUARTERLY,Defaulters,Default Followup,HIV/AIDS Unit,District
+2201A,DM,Retention,DEFAULT,FOLLOWUP,OFF HIVUNIT,Program Office or Location,QUARTERLY,Defaulters,Default Followup,HIV/AIDS Unit,District
+2201A,DM,Retention,TEST HIVPOS PREGNANT,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Number of pregnant women tested HIV positive,Default Followup,Health Management Information System Office,District
+2201A,DM,Retention,TEST HIVPOS PREGNANT,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Number of pregnant women tested HIV positive,Default Followup,Health Management Information System Office,District
+2201A,DM,Retention,TEST HIVPOS PREGNANT,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Number of pregnant women tested HIV positive,Default Followup,Health Management Information System Office,District
+2201A,DM,Retention,TEST HIVPOS PREGNANT,FOLLOWUP,OFF HIVUNIT,Program Office or Location,QUARTERLY,Number of pregnant women tested HIV positive,Default Followup,HIV/AIDS Unit,District
+2201A,DM,Retention,TEST HIVPOS PREGNANT,FOLLOWUP,OFF HIVUNIT,Program Office or Location,QUARTERLY,Number of pregnant women tested HIV positive,Default Followup,HIV/AIDS Unit,District
+2201A,DM,Retention,TEST HIVPOS PREGNANT,FOLLOWUP,OFF HIVUNIT,Program Office or Location,QUARTERLY,Number of pregnant women tested HIV positive,Default Followup,HIV/AIDS Unit,District
+2201A,DM,Retention,TEST HIVPOS MOTHER,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Mothers Tested HIV Positive,Default Followup,Health Management Information System Office,District
+2201A,DM,Retention,TEST HIVPOS MOTHER,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Mothers Tested HIV Positive,Default Followup,Health Management Information System Office,District
+2201A,DM,Retention,TEST HIVPOS MOTHER,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Mothers Tested HIV Positive,Default Followup,Health Management Information System Office,District
+2201A,DM,Retention,TEST HIVPOS MOTHER,FOLLOWUP,OFF HIVUNIT,Program Office or Location,QUARTERLY,Mothers Tested HIV Positive,Default Followup,HIV/AIDS Unit,District
+2201A,DM,Retention,TEST HIVPOS MOTHER,FOLLOWUP,OFF HIVUNIT,Program Office or Location,QUARTERLY,Mothers Tested HIV Positive,Default Followup,HIV/AIDS Unit,District
+2201A,DM,Retention,TEST HIVPOS MOTHER,FOLLOWUP,OFF HIVUNIT,Program Office or Location,QUARTERLY,Mothers Tested HIV Positive,Default Followup,HIV/AIDS Unit,District
+2201A,DM,VMMC,VMMC CIRCUMCISED,TARGET,OFF HMIS,Program Office or Location,MONTH Q,VMMC Circumcised,Set Targets,Health Management Information System Office,District
+2201A,DM,VMMC,VMMC CIRCUMCISED,TARGET,OFF HMIS,Program Office or Location,MONTH Q,VMMC Circumcised,Set Targets,Health Management Information System Office,District
+2201A,DM,VMMC,VMMC CIRCUMCISED,PROGPERFORM,OFF HMIS,Program Office or Location,MONTH Q,VMMC Circumcised,Program Performance,Health Management Information System Office,District
+2201A,DM,VMMC,VMMC CIRCUMCISED,PROGPERFORM,OFF HMIS,Program Office or Location,MONTH Q,VMMC Circumcised,Program Performance,Health Management Information System Office,District
+2201A,DM,PMTCT,TEST HIVPOS MOTHER,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Mothers Tested HIV Positive,Default Followup,Health Management Information System Office,District
+2201A,DM,PMTCT,DEFAULT,FOLLOWUP,PER COOR HMIS,Person,QUARTERLY,Defaulters,Default Followup,HMIS Coordinator,District
+2201A,DM,PMTCT,DEFAULT,FOLLOWUP,PER COUNS HSA,Person,QUARTERLY,Defaulters,Default Followup,HSA Counselor,District
+2201A,DM,Resource targeting,TREAT ART,PRIORITIZE RESOURCE,OFF HTC,Program Office or Location,WEEKLY,Treatment ART,Resource Prioritization,HIV Testing and Counseling Office,District
+2201A,DM,Resource targeting,TREAT ART,PRIORITIZE RESOURCE,RPT FACILITY,Report,WEEKLY,Treatment ART,Resource Prioritization,Faciltiy Report,District
+2201A,DM,Performance management,MI,DESIGN,MI,NA,QUARTERLY,Missing Information,Program Design,Missing Information,District
+2201A,DM,Program Efficiency,PARTNERSUP,INNOVATE,PER DMIS,Person,QUARTERLY,Partners Supplement DHO Effort,Innovate,District Management Information System,District
+2201A,DM,Program Efficiency,PARTNERSUP,INNOVATE,PER DMIS,Person,QUARTERLY,Partners Supplement DHO Effort,Innovate,District Management Information System,District
+2201A,DM,Program Efficiency,PARTNERSUP,INNOVATE,PER COOR,Person,QUARTERLY,Partners Supplement DHO Effort,Innovate,Coordinator,District
+2201A,DM,Program Efficiency,PARTNERSUP,INNOVATE,PER COOR,Person,QUARTERLY,Partners Supplement DHO Effort,Innovate,Coordinator,District
+2201A,DM,Program Efficiency,PARTNERSUP,RESMOB,PER DMIS,Person,QUARTERLY,Partners Supplement DHO Effort,Resource Mobilization,District Management Information System,District
+2201A,DM,Program Efficiency,PARTNERSUP,RESMOB,PER DMIS,Person,QUARTERLY,Partners Supplement DHO Effort,Resource Mobilization,District Management Information System,District
+2201A,DM,Program Efficiency,PARTNERSUP,RESMOB,PER COOR,Person,QUARTERLY,Partners Supplement DHO Effort,Resource Mobilization,Coordinator,District
+2201A,DM,Program Efficiency,PARTNERSUP,RESMOB,PER COOR,Person,QUARTERLY,Partners Supplement DHO Effort,Resource Mobilization,Coordinator,District
+2202A,DM,HTC,YOUTH,LOBBY,PER COUNS,Person,ASNEED,Target Population Youth,Lobby,Counselor,District
+2202A,DM,HTC,YOUTH,LOBBY,PER COUNS,Person,ASNEED,Target Population Youth,Lobby,Counselor,District
+2202A,DM,HTC,YOUTH,LOBBY,PER COUNS,Person,ASNEED,Target Population Youth,Lobby,Counselor,District
+2202A,DM,HTC,YOUTH,LOBBY,PER COUNS,Person,ASNEED,Target Population Youth,Lobby,Counselor,District
+2202A,DM,HTC,YOUTH,LOBBY,MEETING,Meeting or group,ASNEED,Target Population Youth,Lobby,Meeting,District
+2202A,DM,HTC,YOUTH,LOBBY,MEETING,Meeting or group,ASNEED,Target Population Youth,Lobby,Meeting,District
+2202A,DM,HTC,YOUTH,LOBBY,MEETING,Meeting or group,ASNEED,Target Population Youth,Lobby,Meeting,District
+2202A,DM,HTC,YOUTH,LOBBY,MEETING,Meeting or group,ASNEED,Target Population Youth,Lobby,Meeting,District
+2202A,DM,HTC,TEST HIVPOS,LOBBY,PER COUNS,Person,ASNEED,Test HIV Positive,Lobby,Counselor,District
+2202A,DM,HTC,TEST HIVPOS,LOBBY,PER COUNS,Person,ASNEED,Test HIV Positive,Lobby,Counselor,District
+2202A,DM,HTC,TEST HIVPOS,LOBBY,PER COUNS,Person,ASNEED,Test HIV Positive,Lobby,Counselor,District
+2202A,DM,HTC,TEST HIVPOS,LOBBY,PER COUNS,Person,ASNEED,Test HIV Positive,Lobby,Counselor,District
+2202A,DM,HTC,POPULATION,LOBBY,PER COUNS,Person,ASNEED,Population,Lobby,Counselor,District
+2202A,DM,HTC,POPULATION,LOBBY,PER COUNS,Person,ASNEED,Population,Lobby,Counselor,District
+2202A,DM,HTC,POPULATION,LOBBY,PER COUNS,Person,ASNEED,Population,Lobby,Counselor,District
+2202A,DM,HTC,POPULATION,LOBBY,PER COUNS,Person,ASNEED,Population,Lobby,Counselor,District
+2202A,DM,Linkage,TEST HIV,REFER,PER COOR HTC,Person,MONTHLY,Test HIV,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TEST HIV,REFER,PER COOR HTC,Person,MONTHLY,Test HIV,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TEST HIV,REFER,PER COOR HTC,Person,MONTHLY,Test HIV,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TEST HIV,REFER,PER COOR HTC,Person,MONTHLY,Test HIV,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TREAT,REFER,PER COOR HTC,Person,MONTHLY,Patients Treated,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TREAT,REFER,PER COOR HTC,Person,MONTHLY,Patients Treated,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TREAT,REFER,PER COOR HTC,Person,MONTHLY,Patients Treated,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TREAT,REFER,PER COOR HTC,Person,MONTHLY,Patients Treated,Referral,HTC Coordinator,District
+2202A,DM,Linkage,REFER,REFER,PER COOR HTC,Person,MONTHLY,Referral,Referral,HTC Coordinator,District
+2202A,DM,Linkage,REFER,REFER,PER COOR HTC,Person,MONTHLY,Referral,Referral,HTC Coordinator,District
+2202A,DM,Linkage,REFER,REFER,PER COOR HTC,Person,MONTHLY,Referral,Referral,HTC Coordinator,District
+2202A,DM,Linkage,REFER,REFER,PER COOR HTC,Person,MONTHLY,Referral,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TEST HIVPOS,REFER,PER COOR HTC,Person,MONTHLY,Test HIV Positive,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TEST HIVPOS,REFER,PER COOR HTC,Person,MONTHLY,Test HIV Positive,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TEST HIVPOS,REFER,PER COOR HTC,Person,MONTHLY,Test HIV Positive,Referral,HTC Coordinator,District
+2202A,DM,Linkage,TEST HIVPOS,REFER,PER COOR HTC,Person,MONTHLY,Test HIV Positive,Referral,HTC Coordinator,District
+2202A,DM,Retention,DEFAULT,FOLLOWUP,PARTNER CBO,External Partner,ASNEED,Defaulters,Default Followup,Community Based Organization,District
+2202A,DM,VMMC,VMMC CIRCUMCISED,DQ,PER COUNS,Person,ASNEED,VMMC Circumsied by 1 Doctor,Data Quality Check,Counselor,District
+2202A,DM,VMMC,VMMC CIRCUMCISED,DQ,PER COUNS,Person,ASNEED,VMMC Circumsied by 1 Doctor,Data Quality Check,Counselor,District
+2202A,DM,VMMC,VMMC CIRCUMCISED,NONE,PER COUNS,Person,ASNEED,VMMC Circumsied by 1 Doctor,Not Transmitted,Counselor,District
+2202A,DM,VMMC,VMMC CIRCUMCISED,NONE,PER COUNS,Person,ASNEED,VMMC Circumsied by 1 Doctor,Not Transmitted,Counselor,District
+2202A,DM,Resource targeting,REACH,MOBILECLINIC,OFF DHO,Program Office or Location,DAILY,Hard To Reach Areas,Mobile Clinic,District Health Office,District
+2202A,DM,Resource targeting,REACH,MOBILECLINIC,OFF DHO,Program Office or Location,DAILY,Hard To Reach Areas,Mobile Clinic,District Health Office,District
+2202A,DM,Resource targeting,DISTANCE,MOBILECLINIC,OFF DHO,Program Office or Location,DAILY,Distance To Health Facility,Mobile Clinic,District Health Office,District
+2202A,DM,Resource targeting,DISTANCE,MOBILECLINIC,OFF DHO,Program Office or Location,DAILY,Distance To Health Facility,Mobile Clinic,District Health Office,District
+2202A,DM,Resource targeting,DISTANCE,MOBILECLINIC,OFF DHO,Program Office or Location,DAILY,Distance To Health Facility,Mobile Clinic,District Health Office,District
+2202A,DM,Resource targeting,DISTANCE,MOBILECLINIC,OFF DHO,Program Office or Location,DAILY,Distance To Health Facility,Mobile Clinic,District Health Office,District
+2202A,DM,Program Efficiency,MI,BUDGET,MEETING,Meeting or group,ANNUAL,Missing Information,Facility or Regional Budget,Meeting,District
+2202A,DM,Program Efficiency,MI,BUDGET,MEETING,Meeting or group,ANNUAL,Missing Information,Facility or Regional Budget,Meeting,District
+2205A,DM,Drugs,MI,DRUG SUPPLY,MI,NA,QUARTERLY,Missing Information,Drug Supply,Missing Information,District
+2205A,DM,Drugs,MI,DRUG SUPPLY,MI,NA,QUARTERLY,Missing Information,Drug Supply,Missing Information,District
+2205A,DM,HTC,TEST,NONE,OFF HMIS,Program Office or Location,ASNEED,Number of individuals tested,Not Transmitted,Health Management Information System Office,District
+2205A,DM,HTC,TEST HIVPOS,NONE,OFF HMIS,Program Office or Location,ASNEED,Test HIV Positive,Not Transmitted,Health Management Information System Office,District
+2205A,DM,HTC,TREAT ART,NONE,OFF HMIS,Program Office or Location,ASNEED,Treatment ART,Not Transmitted,Health Management Information System Office,District
+2205A,DM,Linkage,TREAT ART,UPTAKE,OFF HTC,Program Office or Location,QUARTERLY,Treatment ART,Increase Uptake/Demand Creation,HIV Testing and Counseling Office,District
+2205A,DM,Linkage,TREAT ART,UPTAKE,OFF HMIS,Program Office or Location,QUARTERLY,Treatment ART,Increase Uptake/Demand Creation,Health Management Information System Office,District
+2205A,DM,Linkage,TEST HIV,UPTAKE,OFF HTC,Program Office or Location,QUARTERLY,Test HIV,Increase Uptake/Demand Creation,HIV Testing and Counseling Office,District
+2205A,DM,Linkage,TEST HIV,UPTAKE,OFF HMIS,Program Office or Location,QUARTERLY,Test HIV,Increase Uptake/Demand Creation,Health Management Information System Office,District
+2205A,DM,Linkage,TREAT,UPTAKE,OFF HTC,Program Office or Location,QUARTERLY,Patients Treated,Increase Uptake/Demand Creation,HIV Testing and Counseling Office,District
+2205A,DM,Linkage,TREAT,UPTAKE,OFF HMIS,Program Office or Location,QUARTERLY,Patients Treated,Increase Uptake/Demand Creation,Health Management Information System Office,District
+2205A,DM,Retention,DEFAULT,FOLLOWUP,REG ART,Register,QUARTERLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,District
+2205A,DM,PMTCT,TEST HIV MOTHER,FOLLOWUP,REG EID,Register,SUPVISIT,Number of mothers tested for HIV,Default Followup,Early Infant Diagnosis Register,District
+2205A,DM,PMTCT,TEST HIV MOTHER,FOLLOWUP,REG EID,Register,SUPVISIT,Number of mothers tested for HIV,Default Followup,Early Infant Diagnosis Register,District
+2205A,DM,PMTCT,DEFAULT MOTHER,FOLLOWUP,REG EID,Register,SUPVISIT,Number of mothers that default,Default Followup,Early Infant Diagnosis Register,District
+2205A,DM,PMTCT,DEFAULT MOTHER,FOLLOWUP,REG EID,Register,SUPVISIT,Number of mothers that default,Default Followup,Early Infant Diagnosis Register,District
+2205A,DM,Resource targeting,CASELOAD,DRUG SUPPLY,REG ART,Register,ASNEED,Caseload,Drug Supply,Anti-Retroviral Treatment Register,District
+2205A,DM,Resource targeting,DELIVERY,DRUG SUPPLY,REG ART,Register,ASNEED,Daily Delivery,Drug Supply,Anti-Retroviral Treatment Register,District
+2205A,DM,Performance management,PROGPERFORM,PROGPERFORM,RPT,Report,QUARTERLY,Program Performance,Program Performance,Report,District
+2205A,DM,Performance management,PROGPERFORM,PROGPERFORM,RPT,Report,QUARTERLY,Program Performance,Program Performance,Report,District
+2205A,DM,Performance management,PROGPERFORM,PROGPERFORM,MEETING,Meeting or group,QUARTERLY,Program Performance,Program Performance,Meeting,District
+2205A,DM,Performance management,PROGPERFORM,PROGPERFORM,MEETING,Meeting or group,QUARTERLY,Program Performance,Program Performance,Meeting,District
+2205A,DM,Program Efficiency,MI,PRIORITIZE RESOURCE,MEETING,Meeting or group,MI,Missing Information,Resource Prioritization,Meeting,District
+2206A,DM,Drugs,DRUG CONSUMP,NONE,CARD STOCK,Register,MONTHLY,Drug Consumption,Not Transmitted,Stock Card,District
+2206A,DM,Drugs,DRUG SUPPLY,NONE,CARD STOCK,Register,MONTHLY,Drug Supply,Not Transmitted,Stock Card,District
+2206A,DM,Drugs,DRUG SUPPLY,NONE,CARD STOCK,Register,MONTHLY,Drug Supply,Not Transmitted,Stock Card,District
+2207A,DM,Drugs,TEST HIV,TREATINIT,REG HTC,Register,MONTHLY,Test HIV,Treatment Initiation,HIV Testing and Counseling Register,District
+2207A,DM,Drugs,TEST CD4COUNT,TREATINIT,REG HTC,Register,MONTHLY,Test CD4 Count,Treatment Initiation,HIV Testing and Counseling Register,District
+2207A,DM,Drugs,TREAT,TREATINIT,REG HTC,Register,MONTHLY,Patients Treated,Treatment Initiation,HIV Testing and Counseling Register,District
+2207A,DM,Drugs,TEST HIVPOS,TREATINIT,REG HTC,Register,MONTHLY,Test HIV Positive,Treatment Initiation,HIV Testing and Counseling Register,District
+2207A,DM,HTC,TEST HIVPOS,SENS,OFF HMIS,Program Office or Location,MONTHLY,Test HIV Positive,Sensitization,Health Management Information System Office,District
+2207A,DM,HTC,TEST HIVNEG,SENS,OFF HMIS,Program Office or Location,MONTHLY,Test HIV Negative,Sensitization,Health Management Information System Office,District
+2207A,DM,Linkage,TEST HIVPOS,REFER,RPT LABORATORY,Report,QUARTERLY,Test HIV Positive,Referral,Laboratory Report,District
+2207A,DM,Linkage,TEST HIVPOS,REFER,RPT HTC,Report,QUARTERLY,Test HIV Positive,Referral,HTC Report,District
+2207A,DM,PMTCT,TEST HIVPOS PREGNANT,CASELOAD,RPT LABORATORY,Report,2XWEEK,Number of pregnant women tested HIV positive,Caseload,Laboratory Report,District
+2207A,DM,PMTCT,TEST HIVPOS PREGNANT,CASELOAD,RPT LABORATORY,Report,2XWEEK,Number of pregnant women tested HIV positive,Caseload,Laboratory Report,District
+2207A,DM,PMTCT,TEST HIVPOS PREGNANT,CASELOAD,RPT LABORATORY,Report,2XWEEK,Number of pregnant women tested HIV positive,Caseload,Laboratory Report,District
+2207A,DM,PMTCT,SAMPLE,CASELOAD,RPT LABORATORY,Report,2XWEEK,Sample Sent To Facility,Caseload,Laboratory Report,District
+2207A,DM,PMTCT,SAMPLE,CASELOAD,RPT LABORATORY,Report,2XWEEK,Sample Sent To Facility,Caseload,Laboratory Report,District
+2207A,DM,PMTCT,SAMPLE,CASELOAD,RPT LABORATORY,Report,2XWEEK,Sample Sent To Facility,Caseload,Laboratory Report,District
+2207A,DM,Resource targeting,TEST,DRUG SUPPLY,OFF HIVDEP,Program Office or Location,QUARTERLY,Number of individuals tested,Drug Supply,HIV Department,District
+2207A,DM,Performance management,TEST CD4COUNT,FACPERFORM,REG EID,Register,MONTH Q,Test CD4 Count,Facility Performance,Early Infant Diagnosis Register,District
+2207A,DM,Performance management,TEST CD4COUNT,FACPERFORM,REG VIRAL,Register,MONTH Q,Test CD4 Count,Facility Performance,Viral Load Register,District
+2207A,DM,Performance management,TEST CD4COUNT,FACPERFORM,RPT HMIS,Report,MONTH Q,Test CD4 Count,Facility Performance,HMIS Report,District
+2207A,DM,Performance management,TEST VIRAL,FACPERFORM,REG EID,Register,MONTH Q,Test Viral Load,Facility Performance,Early Infant Diagnosis Register,District
+2207A,DM,Performance management,TEST VIRAL,FACPERFORM,REG VIRAL,Register,MONTH Q,Test Viral Load,Facility Performance,Viral Load Register,District
+2207A,DM,Performance management,TEST VIRAL,FACPERFORM,RPT HMIS,Report,MONTH Q,Test Viral Load,Facility Performance,HMIS Report,District
+2207A,DM,Performance management,TEST EID,FACPERFORM,REG EID,Register,MONTH Q,Test EID,Facility Performance,Early Infant Diagnosis Register,District
+2207A,DM,Performance management,TEST EID,FACPERFORM,REG VIRAL,Register,MONTH Q,Test EID,Facility Performance,Viral Load Register,District
+2207A,DM,Performance management,TEST EID,FACPERFORM,RPT HMIS,Report,MONTH Q,Test EID,Facility Performance,HMIS Report,District
+2207A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,FORM HTC,Report,MONTH Q,Drug Supply,Drug Supply,HTC Form,District
+2207A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,REG HTC,Register,MONTH Q,Drug Supply,Drug Supply,HIV Testing and Counseling Register,District
+2207A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,FORM HTC,Report,MONTH Q,Drug Supply,Drug Supply,HTC Form,District
+2207A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,REG HTC,Register,MONTH Q,Drug Supply,Drug Supply,HIV Testing and Counseling Register,District
+2301A,DM,Drugs,DRUG SUPPLY,PRIORITIZE RESOURCE,PER COOR ART,Person,ASNEED,Drug Supply,Resource Prioritization,ART Coordinator,District
+2301A,DM,Drugs,DRUG SUPPLY,PRIORITIZE RESOURCE,PER COOR ART,Person,ASNEED,Drug Supply,Resource Prioritization,ART Coordinator,District
+2301A,DM,Drugs,DRUG SUPPLY,PRIORITIZE RESOURCE,OFF PHARM,Program Office or Location,ASNEED,Drug Supply,Resource Prioritization,Pharmacy,District
+2301A,DM,Drugs,DRUG SUPPLY,PRIORITIZE RESOURCE,OFF PHARM,Program Office or Location,ASNEED,Drug Supply,Resource Prioritization,Pharmacy,District
+2301A,DM,Drugs,DRUG SUPPLY,PRIORITIZE RESOURCE,PER FACINCHGE,Person,ASNEED,Drug Supply,Resource Prioritization,Facility in Chart,District
+2301A,DM,Drugs,DRUG SUPPLY,PRIORITIZE RESOURCE,PER FACINCHGE,Person,ASNEED,Drug Supply,Resource Prioritization,Facility in Chart,District
+2301A,DM,HTC,TEST,NONE,PARTNER MSF,External Partner,ASNEED,Number of individuals tested,Not Transmitted,Doctors without Borders,District
+2301A,DM,Retention,DEFAULT,PROGPERFORM,PARTNER MSF,External Partner,QUARTERLY,Defaulters,Program Performance,Doctors without Borders,District
+2301A,DM,VMMC,VMMC CIRCUMCISED,PROGPERFORM,PER COOR,Person,MONTHLY,VMMC Circumcised,Program Performance,Coordinator,District
+2301A,DM,VMMC,VMMC CIRCUMCISED,PROGPERFORM,PARTNER PSI,External Partner,MONTHLY,VMMC Circumcised,Program Performance,Partner PSI,District
+2301A,DM,Resource targeting,NA,PROGTARGET,MI,NA,MI,Not Available,Program Targeting,Missing Information,District
+2301A,DM,Performance management,NA,DONTKNOW,NA,,NA,Not Available,Don't Know,Not Available,District
+2302A,DM,Drugs,MI,FOLLOWUP,MI,NA,MI,Missing Information,Default Followup,Missing Information,District
+2302A,DM,Drugs,MI,PRIORITIZE RESOURCE,MI,NA,Mi,Missing Information,Resource Prioritization,Missing Information,District
+2302A,DM,HTC,TEST HIV,GAP,PER COOR ART,Person,QUARTERLY,Test HIV,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIV,GAP,PER COOR ART,Person,QUARTERLY,Test HIV,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIV,GAP,PER COOR ART,Person,QUARTERLY,Test HIV,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIV,GAP,PER COOR ART,Person,QUARTERLY,Test HIV,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIV,TREND,PER COOR ART,Person,QUARTERLY,Test HIV,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIV,TREND,PER COOR ART,Person,QUARTERLY,Test HIV,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIV,TREND,PER COOR ART,Person,QUARTERLY,Test HIV,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIV,TREND,PER COOR ART,Person,QUARTERLY,Test HIV,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIVNEG,GAP,PER COOR ART,Person,QUARTERLY,Test HIV Negative,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIVNEG,GAP,PER COOR ART,Person,QUARTERLY,Test HIV Negative,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIVNEG,GAP,PER COOR ART,Person,QUARTERLY,Test HIV Negative,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIVNEG,GAP,PER COOR ART,Person,QUARTERLY,Test HIV Negative,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIVNEG,TREND,PER COOR ART,Person,QUARTERLY,Test HIV Negative,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIVNEG,TREND,PER COOR ART,Person,QUARTERLY,Test HIV Negative,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIVNEG,TREND,PER COOR ART,Person,QUARTERLY,Test HIV Negative,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIVNEG,TREND,PER COOR ART,Person,QUARTERLY,Test HIV Negative,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIVPOS,GAP,PER COOR ART,Person,QUARTERLY,Test HIV Positive,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIVPOS,GAP,PER COOR ART,Person,QUARTERLY,Test HIV Positive,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIVPOS,GAP,PER COOR ART,Person,QUARTERLY,Test HIV Positive,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIVPOS,GAP,PER COOR ART,Person,QUARTERLY,Test HIV Positive,Identify Gap,ART Coordinator,District
+2302A,DM,HTC,TEST HIVPOS,TREND,PER COOR ART,Person,QUARTERLY,Test HIV Positive,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIVPOS,TREND,PER COOR ART,Person,QUARTERLY,Test HIV Positive,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIVPOS,TREND,PER COOR ART,Person,QUARTERLY,Test HIV Positive,Identify Trend,ART Coordinator,District
+2302A,DM,HTC,TEST HIVPOS,TREND,PER COOR ART,Person,QUARTERLY,Test HIV Positive,Identify Trend,ART Coordinator,District
+2302A,DM,Linkage,TEST,DESIGN,PER COOR ART,Person,QUARTERLY,Number of individuals tested,Program Design,ART Coordinator,District
+2302A,DM,Linkage,TEST,DESIGN,PER COOR ART,Person,QUARTERLY,Number of individuals tested,Program Design,ART Coordinator,District
+2302A,DM,Linkage,TEST,DESIGN,PER COOR ART,Person,QUARTERLY,Number of individuals tested,Program Design,ART Coordinator,District
+2302A,DM,Linkage,TEST,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Number of individuals tested,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,TEST,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Number of individuals tested,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,TEST,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Number of individuals tested,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,REFER,DESIGN,PER COOR ART,Person,QUARTERLY,Referral,Program Design,ART Coordinator,District
+2302A,DM,Linkage,REFER,DESIGN,PER COOR ART,Person,QUARTERLY,Referral,Program Design,ART Coordinator,District
+2302A,DM,Linkage,REFER,DESIGN,PER COOR ART,Person,QUARTERLY,Referral,Program Design,ART Coordinator,District
+2302A,DM,Linkage,REFER,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Referral,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,REFER,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Referral,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,REFER,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Referral,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,TREAT,DESIGN,PER COOR ART,Person,QUARTERLY,Patients Treated,Program Design,ART Coordinator,District
+2302A,DM,Linkage,TREAT,DESIGN,PER COOR ART,Person,QUARTERLY,Patients Treated,Program Design,ART Coordinator,District
+2302A,DM,Linkage,TREAT,DESIGN,PER COOR ART,Person,QUARTERLY,Patients Treated,Program Design,ART Coordinator,District
+2302A,DM,Linkage,TREAT,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Patients Treated,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,TREAT,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Patients Treated,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,TREAT,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Patients Treated,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,SUPPORT,DESIGN,PER COOR ART,Person,QUARTERLY,Joined Support Group,Program Design,ART Coordinator,District
+2302A,DM,Linkage,SUPPORT,DESIGN,PER COOR ART,Person,QUARTERLY,Joined Support Group,Program Design,ART Coordinator,District
+2302A,DM,Linkage,SUPPORT,DESIGN,PER COOR ART,Person,QUARTERLY,Joined Support Group,Program Design,ART Coordinator,District
+2302A,DM,Linkage,SUPPORT,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Joined Support Group,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,SUPPORT,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Joined Support Group,Program Design,Doctors without Borders,District
+2302A,DM,Linkage,SUPPORT,DESIGN,PARTNER MSF,External Partner,QUARTERLY,Joined Support Group,Program Design,Doctors without Borders,District
+2302A,DM,Retention,DEFAULT,DESIGN,PER COOR ART,Person,MI,Defaulters,Program Design,ART Coordinator,District
+2302A,DM,Retention,DEFAULT,DESIGN,PER COOR ART,Person,MI,Defaulters,Program Design,ART Coordinator,District
+2302A,DM,Retention,DEFAULT,DESIGN,PER COOR ART,Person,MI,Defaulters,Program Design,ART Coordinator,District
+2302A,DM,Retention,DEFAULT,DESIGN,PER COOR ART,Person,MI,Defaulters,Program Design,ART Coordinator,District
+2302A,DM,VMMC,UPTAKE,BARRIER,PER COOR VMMC,Person,QUARTERLY,Increase Uptake/Demand Creation,Address Barrier,VMMC Cooordinator,District
+2302A,DM,PMTCT,MALEINVOLVE,NONE,PER COOR PMTCT,Person,QUARTERLY,Level Of Male Involvement,Not Transmitted,PMTCT Coordinator,District
+2302A,DM,PMTCT,TEST HIVPOS MOTHER,NONE,PER COOR PMTCT,Person,QUARTERLY,Mothers Tested HIV Positive,Not Transmitted,PMTCT Coordinator,District
+2302A,DM,Resource targeting,PROGCOVER,PROGCOVER,RPT CBO,Report,MONTHLY,Program Coverage,Program Coverage,CBO Report,District
+2302A,DM,Resource targeting,PROGCOVER,PROGCOVER,PER COOR HIV,Person,MONTHLY,Program Coverage,Program Coverage,HIV Coordinator,District
+2302A,DM,Resource targeting,PROGCOVER,PROGCOVER,PARTNER MSF,External Partner,MONTHLY,Program Coverage,Program Coverage,Doctors without Borders,District
+2302A,DM,Resource targeting,PREVALENCE,PROGCOVER,RPT CBO,Report,MONTHLY,Prevalence Rate HIV,Program Coverage,CBO Report,District
+2302A,DM,Resource targeting,PREVALENCE,PROGCOVER,PARTNER MSF,External Partner,MONTHLY,Prevalence Rate HIV,Program Coverage,Doctors without Borders,District
+2302A,DM,Resource targeting,PREVALENCE,PROGCOVER,PER COOR HIV,Person,MONTHLY,Prevalence Rate HIV,Program Coverage,HIV Coordinator,District
+2302A,DM,Program Efficiency,MI,JOINTSUP,MI,NA,MI,Missing Information,Joint Supervision,Missing Information,District
+2302A,DM,Program Efficiency,MI,STAKEENGAGE,MI,NA,MI,Missing Information,Stakeholder Engagement,Missing Information,District
+2305A,DM,Drugs,TREAT,DRUG SUPPLY,PARTNER MSF,External Partner,QUARTERLY,Patients Treated,Drug Supply,Doctors without Borders,District
+2305A,DM,HTC,TEST HIVPOS INIT ART,TREATINIT,OFF HTC,Program Office or Location,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Treatment Initiation,HIV Testing and Counseling Office,District
+2305A,DM,HTC,TEST HIVPOS INIT ART,TREATINIT,OFF HTC,Program Office or Location,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Treatment Initiation,HIV Testing and Counseling Office,District
+2305A,DM,Linkage,REFER,REFER,REG ART,Register,QUARTERLY,Referral,Referral,Anti-Retroviral Treatment Register,District
+2305A,DM,Linkage,REFER,REFER,PARTNER MSF,External Partner,QUARTERLY,Referral,Referral,Doctors without Borders,District
+2305A,DM,Retention,DEFAULT,TREATINIT,REG BOOK,Register,QUARTERLY,Defaulters,Treatment Initiation,Booking Register,District
+2305A,DM,Retention,DEFAULT,FOLLOWUP,REG BOOK,Register,QUARTERLY,Defaulters,Default Followup,Booking Register,District
+2305A,DM,VMMC,MI,UPTAKE,MI,NA,MI,Missing Information,Increase Uptake/Demand Creation,Missing Information,District
+2305A,DM,PMTCT,TEST HIV MOTHER,TREATINIT,REG HTC,Register,MONTHLY,Number of mothers tested for HIV,Treatment Initiation,HIV Testing and Counseling Register,District
+2305A,DM,PMTCT,TEST HIV MOTHER,TREATINIT,REG HTC,Register,MONTHLY,Number of mothers tested for HIV,Treatment Initiation,HIV Testing and Counseling Register,District
+2305A,DM,PMTCT,TEST HIV MOTHER,TREATINIT,REG HTC,Register,MONTHLY,Number of mothers tested for HIV,Treatment Initiation,HIV Testing and Counseling Register,District
+2305A,DM,PMTCT,TEST HIVPOS MOTHER,TREATINIT,REG HTC,Register,MONTHLY,Mothers Tested HIV Positive,Treatment Initiation,HIV Testing and Counseling Register,District
+2305A,DM,PMTCT,TEST HIVPOS MOTHER,TREATINIT,REG HTC,Register,MONTHLY,Mothers Tested HIV Positive,Treatment Initiation,HIV Testing and Counseling Register,District
+2305A,DM,PMTCT,TEST HIVPOS MOTHER,TREATINIT,REG HTC,Register,MONTHLY,Mothers Tested HIV Positive,Treatment Initiation,HIV Testing and Counseling Register,District
+2305A,DM,PMTCT,TEST HIV CHILD,TREATINIT,REG HTC,Register,MONTHLY,Number of children tested for HIV,Treatment Initiation,HIV Testing and Counseling Register,District
+2305A,DM,PMTCT,TEST HIV CHILD,TREATINIT,REG HTC,Register,MONTHLY,Number of children tested for HIV,Treatment Initiation,HIV Testing and Counseling Register,District
+2305A,DM,PMTCT,TEST HIV CHILD,TREATINIT,REG HTC,Register,MONTHLY,Number of children tested for HIV,Treatment Initiation,HIV Testing and Counseling Register,District
+2305A,DM,Resource targeting,CONSULTDAY,STAFFING,RPT,Report,QUARTERLY,Daily Consultation,Staffing/Workload,Report,District
+2305A,DM,Performance management,RETENTART,SUPERVISION,PARTNER MSF,External Partner,MONTH Q,Retention on ART,Supervision,Doctors without Borders,District
+2305A,DM,Performance management,RETENTART,SUPERVISION,RPT EID,Report,MONTH Q,Retention on ART,Supervision,EID Report,District
+2305A,DM,Performance management,TREAT B+,SUPERVISION,PARTNER MSF,External Partner,MONTH Q,Treat B+,Supervision,Doctors without Borders,District
+2305A,DM,Performance management,TREAT B+,SUPERVISION,RPT EID,Report,MONTH Q,Treat B+,Supervision,EID Report,District
+2305A,DM,Performance management,HIVEXPO CHILD,SUPERVISION,PARTNER MSF,External Partner,MONTH Q,Number of children exposed to HIV,Supervision,Doctors without Borders,District
+2305A,DM,Performance management,HIVEXPO CHILD,SUPERVISION,RPT EID,Report,MONTH Q,Number of children exposed to HIV,Supervision,EID Report,District
+2305A,DM,Program Efficiency,MI,SUPERVISION,MI,NA,MI,Missing Information,Supervision,Missing Information,District
+2306A,DM,Resource targeting,DRUG SUPPLY,DRUG CONSUMP,CARD STOCK,Register,MONTHLY,Drug Supply,Drug Consumption,Stock Card,District
+2306A,DM,Resource targeting,DRUG SUPPLY,DRUG CONSUMP,CARD STOCK,Register,MONTHLY,Drug Supply,Drug Consumption,Stock Card,District
+2306A,DM,Resource targeting,DRUG CONSUMP,DRUG CONSUMP,CARD STOCK,Register,MONTHLY,Drug Consumption,Drug Consumption,Stock Card,District
+2306A,DM,Resource targeting,DRUG CONSUMP,DRUG CONSUMP,CARD STOCK,Register,MONTHLY,Drug Consumption,Drug Consumption,Stock Card,District
+2306A,DM,Resource targeting,DRUG CONSUMP,DRUG CONSUMP,REG OPD,Register,MONTHLY,Drug Consumption,Drug Consumption,Out Patients Department Register,District
+2306A,DM,Resource targeting,DRUG CONSUMP,DRUG CONSUMP,REG OPD,Register,MONTHLY,Drug Consumption,Drug Consumption,Out Patients Department Register,District
+2306A,DM,Resource targeting,DRUG SUPPLY,DRUG CONSUMP,REG OPD,Register,MONTHLY,Drug Supply,Drug Consumption,Out Patients Department Register,District
+2306A,DM,Resource targeting,DRUG SUPPLY,DRUG CONSUMP,REG OPD,Register,MONTHLY,Drug Supply,Drug Consumption,Out Patients Department Register,District
+2306A,DM,Program Efficiency,MI,PRIORITIZE,MI,NA,MI,Missing Information,Prioritization,Missing Information,District
+2307A,DM,HTC,TESTKIT,PROTOADHERE,OFF HTC,Program Office or Location,MONTHLY,Test Kits Used,Protocol Adherence,HIV Testing and Counseling Office,District
+2307A,DM,HTC,TESTKIT,PROTOADHERE,OFF HTC,Program Office or Location,MONTHLY,Test Kits Used,Protocol Adherence,HIV Testing and Counseling Office,District
+2307A,DM,HTC,TESTKIT,PROTOADHERE,OFF HTC,Program Office or Location,MONTHLY,Test Kits Used,Protocol Adherence,HIV Testing and Counseling Office,District
+2307A,DM,HTC,TESTKIT,PROTOADHERE,OFF HTC,Program Office or Location,MONTHLY,Test Kits Used,Protocol Adherence,HIV Testing and Counseling Office,District
+2307A,DM,Linkage,CD4COUNT,TREATINIT,MI,NA,MI,CD4 Count,Treatment Initiation,Missing Information,District
+2307A,DM,Linkage,TEST HIVPOS,TREATINIT,MI,NA,MI,Test HIV Positive,Treatment Initiation,Missing Information,District
+2307A,DM,Performance management,MI,TEST RESULT,MI,NA,MI,Missing Information,Test Result Validity,Missing Information,District
+2401A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,OFF HMIS,Program Office or Location,MONTHLY,Drug Consumption,Drug Supply,Health Management Information System Office,District
+2401A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,OFF HMIS,Program Office or Location,MONTHLY,Drug Consumption,Drug Supply,Health Management Information System Office,District
+2401A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,OFF HMIS,Program Office or Location,MONTHLY,Drug Consumption,Drug Supply,Health Management Information System Office,District
+2401A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,FAC ART,Program Office or Location,MONTHLY,Drug Consumption,Drug Supply,ART Clinic,District
+2401A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,FAC ART,Program Office or Location,MONTHLY,Drug Consumption,Drug Supply,ART Clinic,District
+2401A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,FAC ART,Program Office or Location,MONTHLY,Drug Consumption,Drug Supply,ART Clinic,District
+2401A,DM,Drugs,DRUG CONSUMP,CASELOAD,OFF HMIS,Program Office or Location,MONTHLY,Drug Consumption,Caseload,Health Management Information System Office,District
+2401A,DM,Drugs,DRUG CONSUMP,CASELOAD,FAC ART,Program Office or Location,MONTHLY,Drug Consumption,Caseload,ART Clinic,District
+2401A,DM,Drugs,TREAT,CASELOAD,OFF HMIS,Program Office or Location,MONTHLY,Patients Treated,Caseload,Health Management Information System Office,District
+2401A,DM,Drugs,TREAT,CASELOAD,FAC ART,Program Office or Location,MONTHLY,Patients Treated,Caseload,ART Clinic,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,RPT WARD,Report,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,RPT WARD,Report,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,RPT WARD,Report,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,RPT WARD,Report,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TREAT HOSPITALMONTH,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Treated In Hospital By Month,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST,UPTAKE,RPT WARD,Report,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST,UPTAKE,RPT WARD,Report,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST,UPTAKE,RPT WARD,Report,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST,UPTAKE,RPT WARD,Report,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Number of individuals tested,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,RPT WARD,Report,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,RPT WARD,Report,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,RPT WARD,Report,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,RPT WARD,Report,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST HIVPOS,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Test HIV Positive,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,RPT WARD,Report,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,RPT WARD,Report,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,RPT WARD,Report,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,RPT WARD,Report,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,Ward Report,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,RPT WARDAUDIT,Report,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,Monthly Ward Audit,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,UPTAKE,SYS HMIS,Electronic System,MONTHLY,Number of individuals who tested HIV positive who initiate ART,Increase Uptake/Demand Creation,HMIS,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,STAKEENGAGE,REG HTC,Register,MONTHLY,Number of individuals tested HIV positive who initiate treatment,Stakeholder Engagement,HIV Testing and Counseling Register,District
+2401A,DM,HTC,TEST HIVPOS INIT ART,STAKEENGAGE,RPT HTC,Report,MONTHLY,Number of individuals tested HIV positive who initiate treatment,Stakeholder Engagement,HTC Report,District
+2401A,DM,Linkage,TEST HIVPOS TREAT TB,INTEGRATE,OFF TB,Program Office or Location,BIANNUAL,Number of individuals with TB who tested HIV positive,Integrate Services,Tuberculosis Office,District
+2401A,DM,Linkage,TEST HIVPOS TREAT TB,INTEGRATE,OFF ART,Program Office or Location,BIANNUAL,Number of individuals with TB who tested HIV positive,Integrate Services,ART Office,District
+2401A,DM,Linkage,TEST HIVPOS TREAT TB,INTEGRATE,OFF HMIS,Program Office or Location,BIANNUAL,Number of individuals with TB who tested HIV positive,Integrate Services,Health Management Information System Office,District
+2401A,DM,Retention,DEFAULT,DRUG SUPPLY,REG ART,Register,QUARTERLY,Defaulters,Drug Supply,Anti-Retroviral Treatment Register,District
+2401A,DM,Retention,DEFAULT,DRUG SUPPLY,REG ART,Register,QUARTERLY,Defaulters,Drug Supply,Anti-Retroviral Treatment Register,District
+2401A,DM,Retention,DEFAULT,INTEGRATE,REG ART,Register,QUARTERLY,Defaulters,Integrate Services,Anti-Retroviral Treatment Register,District
+2401A,DM,Retention,DEFAULT,INTEGRATE,REG ART,Register,QUARTERLY,Defaulters,Integrate Services,Anti-Retroviral Treatment Register,District
+2401A,DM,Retention,DEFAULT,INTEGRATE,REG ART,Register,QUARTERLY,Defaulters,Integrate Services,Anti-Retroviral Treatment Register,District
+2401A,DM,Retention,DRUG SUPPLY,INTEGRATE,REG ART,Register,QUARTERLY,Drug Supply,Integrate Services,Anti-Retroviral Treatment Register,District
+2401A,DM,Retention,DRUG SUPPLY,INTEGRATE,REG ART,Register,QUARTERLY,Drug Supply,Integrate Services,Anti-Retroviral Treatment Register,District
+2401A,DM,Retention,DRUG SUPPLY,INTEGRATE,REG ART,Register,QUARTERLY,Drug Supply,Integrate Services,Anti-Retroviral Treatment Register,District
+2401A,DM,VMMC,VMMC CIRCUMCISED,BARRIER,MEETING,Meeting or group,BIANNUAL,VMMC Circumcised,Address Barrier,Meeting,District
+2401A,DM,VMMC,VMMC CIRCUMFREQ,BARRIER,MEETING,Meeting or group,BIANNUAL,VMMC Circumcision Frequency,Address Barrier,Meeting,District
+2401A,DM,VMMC,VMMC CIRCUMFREQ,UPTAKE,PER STAKE,Person,BIANNUAL,VMMC Circumcision Frequency,Increase Uptake/Demand Creation,Stakeholder,District
+2401A,DM,VMMC,VMMC COMPLICATION,UPTAKE,PER STAKE,Person,BIANNUAL,VMMC Complication,Increase Uptake/Demand Creation,Stakeholder,District
+2401A,DM,PMTCT,DEFAULT,STUDY,REG CHAI,Register,MONTHLY,Defaulters,Facility Study Participation,Clinton Health Access Initiative Register,District
+2401A,DM,PMTCT,DEFAULT,STUDY,REG EID,Register,MONTHLY,Defaulters,Facility Study Participation,Early Infant Diagnosis Register,District
+2401A,DM,PMTCT,DEFAULT,STUDY,REG PMTCT,Register,MONTHLY,Defaulters,Facility Study Participation,Preventing Mother to Child Transmission Register,District
+2401A,DM,PMTCT,TEST HIVPOS WOMEN,DEFAULT,REG CHAI,Register,MONTHLY,Number of women who test HIV positive,Defaulters,Clinton Health Access Initiative Register,District
+2401A,DM,PMTCT,TEST HIVPOS WOMEN,DEFAULT,REG EID,Register,MONTHLY,Number of women who test HIV positive,Defaulters,Early Infant Diagnosis Register,District
+2401A,DM,PMTCT,TREAT NVP,DEFAULT,REG CHAI,Register,MONTHLY,Treatment NVP,Defaulters,Clinton Health Access Initiative Register,District
+2401A,DM,PMTCT,TREAT NVP,DEFAULT,REG EID,Register,MONTHLY,Treatment NVP,Defaulters,Early Infant Diagnosis Register,District
+2401A,DM,Resource targeting,ATTENDCLIN,PROGTARGET,OFF HMIS,Program Office or Location,QUARTERLY,Client Attend Clinic,Program Targeting,Health Management Information System Office,District
+2401A,DM,Resource targeting,ATTENDCLIN,PROGTARGET,OFF HMIS,Program Office or Location,QUARTERLY,Client Attend Clinic,Program Targeting,Health Management Information System Office,District
+2401A,DM,Resource targeting,ATTENDCLIN,PROGTARGET,REG ART,Register,QUARTERLY,Client Attend Clinic,Program Targeting,Anti-Retroviral Treatment Register,District
+2401A,DM,Resource targeting,ATTENDCLIN,PROGTARGET,REG ART,Register,QUARTERLY,Client Attend Clinic,Program Targeting,Anti-Retroviral Treatment Register,District
+2401A,DM,Resource targeting,DEFAULT,PROGTARGET,OFF HMIS,Program Office or Location,QUARTERLY,Defaulters,Program Targeting,Health Management Information System Office,District
+2401A,DM,Resource targeting,DEFAULT,PROGTARGET,OFF HMIS,Program Office or Location,QUARTERLY,Defaulters,Program Targeting,Health Management Information System Office,District
+2401A,DM,Resource targeting,DEFAULT,PROGTARGET,REG ART,Register,QUARTERLY,Defaulters,Program Targeting,Anti-Retroviral Treatment Register,District
+2401A,DM,Resource targeting,DEFAULT,PROGTARGET,REG ART,Register,QUARTERLY,Defaulters,Program Targeting,Anti-Retroviral Treatment Register,District
+2401A,DM,Performance management,RPTRATE,GENRPT,SYS DHIS2,Electronic System,MONTH Q,Reporting Rate,Generate Report,DHIS2,District
+2401A,DM,Performance management,RPTRATE,GENRPT,SYS DHIS2,Electronic System,MONTH Q,Reporting Rate,Generate Report,DHIS2,District
+2401A,DM,Program Efficiency,TREAT ART,INTEGRATE,REG PARTNER,External Partner,QUART BI,Treatment ART,Integrate Services,Partner Register,District
+2401A,DM,Program Efficiency,TREAT ART,INTEGRATE,REG PARTNER,External Partner,QUART BI,Treatment ART,Integrate Services,Partner Register,District
+2401A,DM,Program Efficiency,TREAT ART,INTEGRATE,REG PARTNER,External Partner,QUART BI,Treatment ART,Integrate Services,Partner Register,District
+2401A,DM,Program Efficiency,DEFAULT,INTEGRATE,REG PARTNER,External Partner,QUART BI,Defaulters,Integrate Services,Partner Register,District
+2401A,DM,Program Efficiency,DEFAULT,INTEGRATE,REG PARTNER,External Partner,QUART BI,Defaulters,Integrate Services,Partner Register,District
+2401A,DM,Program Efficiency,DEFAULT,INTEGRATE,REG PARTNER,External Partner,QUART BI,Defaulters,Integrate Services,Partner Register,District
+2401A,DM,Program Efficiency,DEFAULT,FOLLOWUP,OFF HMIS,Program Office or Location,QUARTERLY,Defaulters,Default Followup,Health Management Information System Office,District
+2401A,DM,Program Efficiency,DEFAULT,FOLLOWUP,REG ART,Register,QUARTERLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,District
+2405A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,OFF PHARM,Program Office or Location,DAILY,Drug Supply,Drug Supply,Pharmacy,District
+2405A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,OFF PHARM,Program Office or Location,DAILY,Drug Supply,Drug Supply,Pharmacy,District
+2405A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,DAILY,Drug Supply,Drug Supply,Facility,District
+2405A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,DAILY,Drug Supply,Drug Supply,Facility,District
+2405A,DM,Drugs,TREAT ART,DRUG SUPPLY,RPT FACILITY,Report,QUARTERLY,Treatment ART,Drug Supply,Faciltiy Report,District
+2405A,DM,Drugs,TREAT ART,DRUG SUPPLY,RPT FACILITY,Report,QUARTERLY,Treatment ART,Drug Supply,Faciltiy Report,District
+2405A,DM,Drugs,DRUG EXPIRY,DRUG STORAGE,OFF PHARM,Program Office or Location,DAILY,Drug Expiry,Drug Storage,Pharmacy,District
+2405A,DM,Drugs,DRUG EXPIRY,DRUG STORAGE,FAC,Program Office or Location,DAILY,Drug Expiry,Drug Storage,Facility,District
+2405A,DM,HTC,WHOSTAGE,TREATINIT,FAC ART,Program Office or Location,DAILY,WHO Staging,Treatment Initiation,ART Clinic,District
+2405A,DM,HTC,WHOSTAGE,TREATINIT,OFF LAB,Program Office or Location,DAILY,WHO Staging,Treatment Initiation,Laboratory,District
+2405A,DM,Linkage,TEST HIVPOS,TREATINIT,OFF LAB,Program Office or Location,DAILY,Test HIV Positive,Treatment Initiation,Laboratory,District
+2405A,DM,Linkage,TEST HIVPOS,TREATINIT,OFF LAB,Program Office or Location,DAILY,Test HIV Positive,Treatment Initiation,Laboratory,District
+2405A,DM,Linkage,TEST HIVPOS,TREATINIT,RPT WARD,Report,DAILY,Test HIV Positive,Treatment Initiation,Ward Report,District
+2405A,DM,Linkage,TEST HIVPOS,TREATINIT,RPT WARD,Report,DAILY,Test HIV Positive,Treatment Initiation,Ward Report,District
+2405A,DM,Linkage,TEST HIVPOS,TREATINIT,REG HTC,Register,DAILY,Test HIV Positive,Treatment Initiation,HIV Testing and Counseling Register,District
+2405A,DM,Linkage,TEST HIVPOS,TREATINIT,REG HTC,Register,DAILY,Test HIV Positive,Treatment Initiation,HIV Testing and Counseling Register,District
+2405A,DM,Retention,DEFAULT,DEFAULT,RPT,Report,QUARTERLY,Defaulters,Defaulters,Report,District
+2405A,DM,Retention,DEFAULT,NONE,RPT,Report,QUARTERLY,Defaulters,Not Transmitted,Report,District
+2405A,DM,Retention,DEFAULT,NONE,RPT,Report,QUARTERLY,Defaulters,Not Transmitted,Report,District
+2405A,DM,Retention,LOSSFOLLOW,NONE,RPT,Report,QUARTERLY,Loss To Followup,Not Transmitted,Report,District
+2405A,DM,Retention,LOSSFOLLOW,NONE,RPT,Report,QUARTERLY,Loss To Followup,Not Transmitted,Report,District
+2405A,DM,Retention,DEFAULT,NONE,RPT,Report,QUARTERLY,Defaulters,Not Transmitted,Report,District
+2405A,DM,Retention,DEFAULT,NONE,RPT,Report,QUARTERLY,Defaulters,Not Transmitted,Report,District
+2405A,DM,Retention,DEFAULT,NONE,RPT,Report,QUARTERLY,Defaulters,Not Transmitted,Report,District
+2405A,DM,Retention,LOSSFOLLOW,NONE,RPT,Report,QUARTERLY,Loss To Followup,Not Transmitted,Report,District
+2405A,DM,Retention,LOSSFOLLOW,NONE,RPT,Report,QUARTERLY,Loss To Followup,Not Transmitted,Report,District
+2405A,DM,Retention,LOSSFOLLOW,NONE,RPT,Report,QUARTERLY,Loss To Followup,Not Transmitted,Report,District
+2405A,DM,PMTCT,DEFAULT,FOLLOWUP,RPT,Report,MONTHLY,Defaulters,Default Followup,Report,District
+2405A,DM,PMTCT,DEFAULT,FOLLOWUP,RPT,Report,MONTHLY,Defaulters,Default Followup,Report,District
+2405A,DM,PMTCT,DEFAULT,FOLLOWUP,RPT,Report,MONTHLY,Defaulters,Default Followup,Report,District
+2405A,DM,PMTCT,DEFAULT,FOLLOWUP,RPT,Report,MONTHLY,Defaulters,Default Followup,Report,District
+2405A,DM,PMTCT,RETENT,FOLLOWUP,RPT,Report,MONTHLY,Retention,Default Followup,Report,District
+2405A,DM,PMTCT,RETENT,FOLLOWUP,RPT,Report,MONTHLY,Retention,Default Followup,Report,District
+2405A,DM,PMTCT,RETENT,FOLLOWUP,RPT,Report,MONTHLY,Retention,Default Followup,Report,District
+2405A,DM,PMTCT,RETENT,FOLLOWUP,RPT,Report,MONTHLY,Retention,Default Followup,Report,District
+2405A,DM,PMTCT,RETENT,TREATINIT MOTBAB,RPT,Report,MONTHLY,Retention,Mother Baby Pair Treatment Initiation,Report,District
+2405A,DM,PMTCT,RETENT,TREATINIT MOTBAB,RPT,Report,MONTHLY,Retention,Mother Baby Pair Treatment Initiation,Report,District
+2405A,DM,Resource targeting,DRUG SUPPLY,DRUG SUPPLY,OFF HIVUNIT,Program Office or Location,QUARTERLY,Drug Supply,Drug Supply,HIV/AIDS Unit,District
+2405A,DM,Performance management,DEFAULT,SUPERVISION,RPT,Report,QUARTERLY,Defaulters,Supervision,Report,District
+2405A,DM,Performance management,DEFAULT,SUPERVISION,RPT,Report,QUARTERLY,Defaulters,Supervision,Report,District
+2405A,DM,Performance management,DEFAULT,SUPERVISION,RPT,Report,SUPVISIT,Defaulters,Supervision,Report,District
+2405A,DM,Performance management,DEFAULT,SUPERVISION,RPT,Report,SUPVISIT,Defaulters,Supervision,Report,District
+2405A,DM,Performance management,RPTRATE,SUPERVISION,RPT,Report,QUARTERLY,Reporting Rate,Supervision,Report,District
+2405A,DM,Performance management,RPTRATE,SUPERVISION,RPT,Report,QUARTERLY,Reporting Rate,Supervision,Report,District
+2405A,DM,Performance management,RPTRATE,SUPERVISION,RPT,Report,SUPVISIT,Reporting Rate,Supervision,Report,District
+2405A,DM,Performance management,RPTRATE,SUPERVISION,RPT,Report,SUPVISIT,Reporting Rate,Supervision,Report,District
+2405A,DM,Program Efficiency,DRUG STOCKOUT,STAKEENGAGE,OFF PHARM,Program Office or Location,ASNEED,Drug Stock Out,Stakeholder Engagement,Pharmacy,District
+2405A,DM,Program Efficiency,FACPERFORM,STAKEENGAGE,OFF PHARM,Program Office or Location,ASNEED,Facility Performance,Stakeholder Engagement,Pharmacy,District
+2405A,DM,Program Efficiency,FACPERFORM,STAKEENGAGE,OFF PHARM,Program Office or Location,ASNEED,Facility Performance,Stakeholder Engagement,Pharmacy,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Consumption,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Consumption,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Consumption,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Consumption,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG CONSUMP,REFER,PER SUPPLY,Person,ASNEED,Drug Consumption,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG CONSUMP,REFER,PER SUPPLY,Person,ASNEED,Drug Consumption,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG CONSUMP,REFER,PER SUPPLY,Person,ASNEED,Drug Consumption,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG CONSUMP,REFER,CARD STOCK,Register,ASNEED,Drug Consumption,Referral,Stock Card,District
+2406A,DM,Drugs,DRUG CONSUMP,REFER,CARD STOCK,Register,ASNEED,Drug Consumption,Referral,Stock Card,District
+2406A,DM,Drugs,DRUG CONSUMP,REFER,CARD STOCK,Register,ASNEED,Drug Consumption,Referral,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,PER SUPPLY,Person,ASNEED,Drug Supply,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,PER SUPPLY,Person,ASNEED,Drug Supply,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,PER SUPPLY,Person,ASNEED,Drug Supply,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,CARD STOCK,Register,ASNEED,Drug Supply,Referral,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,CARD STOCK,Register,ASNEED,Drug Supply,Referral,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,CARD STOCK,Register,ASNEED,Drug Supply,Referral,Stock Card,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Consumption,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Consumption,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Consumption,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Consumption,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Consumption,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Consumption,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Supply,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Supply,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Supply,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Supply,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Supply,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Supply,Drug Supply,Stock Card,District
+2406A,DM,Drugs,CONSIGN,REFER,PER SUPPLY,Person,ASNEED,Date Of Next Consignment,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,CONSIGN,REFER,PER SUPPLY,Person,ASNEED,Date Of Next Consignment,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,CONSIGN,REFER,PER SUPPLY,Person,ASNEED,Date Of Next Consignment,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,CONSIGN,REFER,CARD STOCK,Register,ASNEED,Date Of Next Consignment,Referral,Stock Card,District
+2406A,DM,Drugs,CONSIGN,REFER,CARD STOCK,Register,ASNEED,Date Of Next Consignment,Referral,Stock Card,District
+2406A,DM,Drugs,CONSIGN,REFER,CARD STOCK,Register,ASNEED,Date Of Next Consignment,Referral,Stock Card,District
+2406A,DM,Drugs,CONSIGN,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Date Of Next Consignment,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,CONSIGN,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Date Of Next Consignment,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,CONSIGN,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Date Of Next Consignment,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,CONSIGN,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Date Of Next Consignment,Drug Supply,Stock Card,District
+2406A,DM,Drugs,CONSIGN,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Date Of Next Consignment,Drug Supply,Stock Card,District
+2406A,DM,Drugs,CONSIGN,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Date Of Next Consignment,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,PER SUPPLY,Person,ASNEED,Drug Supply,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,PER SUPPLY,Person,ASNEED,Drug Supply,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,PER SUPPLY,Person,ASNEED,Drug Supply,Referral,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,CARD STOCK,Register,ASNEED,Drug Supply,Referral,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,CARD STOCK,Register,ASNEED,Drug Supply,Referral,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,REFER,CARD STOCK,Register,ASNEED,Drug Supply,Referral,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Supply,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Supply,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,PER SUPPLY,Person,ASNEED,Drug Supply,Drug Supply,Supply Chain Manager,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Supply,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Supply,Drug Supply,Stock Card,District
+2406A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Supply,Drug Supply,Stock Card,District
+2406A,DM,HTC,DRUG CONSUMP,TESTKIT,PER SUPPLY,Person,MONTHLY,Drug Consumption,Test Kits Used,Supply Chain Manager,District
+2406A,DM,HTC,DRUG CONSUMP,TESTKIT,PER SUPPLY,Person,MONTHLY,Drug Consumption,Test Kits Used,Supply Chain Manager,District
+2406A,DM,HTC,DRUG CONSUMP,TESTKIT,PER SUPPLY,Person,MONTHLY,Drug Consumption,Test Kits Used,Supply Chain Manager,District
+2406A,DM,HTC,DRUG CONSUMP,TESTKIT,PER SUPPLY,Person,MONTHLY,Drug Consumption,Test Kits Used,Supply Chain Manager,District
+2406A,DM,HTC,DRUG CONSUMP,TESTKIT,CARD STOCK,Register,MONTHLY,Drug Consumption,Test Kits Used,Stock Card,District
+2406A,DM,HTC,DRUG CONSUMP,TESTKIT,CARD STOCK,Register,MONTHLY,Drug Consumption,Test Kits Used,Stock Card,District
+2406A,DM,HTC,DRUG CONSUMP,TESTKIT,CARD STOCK,Register,MONTHLY,Drug Consumption,Test Kits Used,Stock Card,District
+2406A,DM,HTC,DRUG CONSUMP,TESTKIT,CARD STOCK,Register,MONTHLY,Drug Consumption,Test Kits Used,Stock Card,District
+2406A,DM,Resource targeting,DRUG CONSUMP,TESTKIT,PER SUPPLY,Person,ASNEED,Drug Consumption,Test Kits Used,Supply Chain Manager,District
+2406A,DM,Resource targeting,DRUG CONSUMP,TESTKIT,PER SUPPLY,Person,ASNEED,Drug Consumption,Test Kits Used,Supply Chain Manager,District
+2406A,DM,Resource targeting,DRUG CONSUMP,TESTKIT,CARD STOCK,Register,ASNEED,Drug Consumption,Test Kits Used,Stock Card,District
+2406A,DM,Resource targeting,DRUG CONSUMP,TESTKIT,CARD STOCK,Register,ASNEED,Drug Consumption,Test Kits Used,Stock Card,District
+2406A,DM,Program Efficiency,DRUG CONSUMP,DRUG SUPPLY,PER SUPPLY,Person,MONTHLY,Drug Consumption,Drug Supply,Supply Chain Manager,District
+2406A,DM,Program Efficiency,DRUG CONSUMP,DRUG SUPPLY,PER SUPPLY,Person,MONTHLY,Drug Consumption,Drug Supply,Supply Chain Manager,District
+2406A,DM,Program Efficiency,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Consumption,Drug Supply,Stock Card,District
+2406A,DM,Program Efficiency,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Consumption,Drug Supply,Stock Card,District
+2407A,DM,Drugs,TREAT,NONE,OFF LAB,Program Office or Location,MONTHLY,Patients Treated,Not Transmitted,Laboratory,District
+2407A,DM,Drugs,TREAT,NONE,OFF LAB,Program Office or Location,MONTHLY,Patients Treated,Not Transmitted,Laboratory,District
+2407A,DM,Drugs,TEST LIVER,NONE,OFF LAB,Program Office or Location,MONTHLY,Test Liver Function,Not Transmitted,Laboratory,District
+2407A,DM,Drugs,TEST LIVER,NONE,OFF LAB,Program Office or Location,MONTHLY,Test Liver Function,Not Transmitted,Laboratory,District
+2407A,DM,Drugs,TEST CD4COUNT,NONE,OFF LAB,Program Office or Location,MONTHLY,Test CD4 Count,Not Transmitted,Laboratory,District
+2407A,DM,Drugs,TEST CD4COUNT,NONE,OFF LAB,Program Office or Location,MONTHLY,Test CD4 Count,Not Transmitted,Laboratory,District
+2407A,DM,HTC,TEST HIVPOS,BLOODDONOR,REG,Register,DAILY M,Test HIV Positive,Blood Donor,Register,District
+2407A,DM,HTC,TEST HIVPOS,BLOODDONOR,REG,Register,DAILY M,Test HIV Positive,Blood Donor,Register,District
+2407A,DM,HTC,TEST HIVPOS,BLOODDONOR,REG,Register,DAILY M,Test HIV Positive,Blood Donor,Register,District
+2407A,DM,HTC,TEST HIVPOS,BLOODDONOR,FORM,Report,DAILY M,Test HIV Positive,Blood Donor,Form,District
+2407A,DM,HTC,TEST HIVPOS,BLOODDONOR,FORM,Report,DAILY M,Test HIV Positive,Blood Donor,Form,District
+2407A,DM,HTC,TEST HIVPOS,BLOODDONOR,FORM,Report,DAILY M,Test HIV Positive,Blood Donor,Form,District
+2407A,DM,HTC,TEST HIVNEG,BLOODDONOR,REG,Register,DAILY M,Test HIV Negative,Blood Donor,Register,District
+2407A,DM,HTC,TEST HIVNEG,BLOODDONOR,REG,Register,DAILY M,Test HIV Negative,Blood Donor,Register,District
+2407A,DM,HTC,TEST HIVNEG,BLOODDONOR,REG,Register,DAILY M,Test HIV Negative,Blood Donor,Register,District
+2407A,DM,HTC,TEST HIVNEG,BLOODDONOR,FORM,Report,DAILY M,Test HIV Negative,Blood Donor,Form,District
+2407A,DM,HTC,TEST HIVNEG,BLOODDONOR,FORM,Report,DAILY M,Test HIV Negative,Blood Donor,Form,District
+2407A,DM,HTC,TEST HIVNEG,BLOODDONOR,FORM,Report,DAILY M,Test HIV Negative,Blood Donor,Form,District
+2407A,DM,HTC,TEST ONE,MI,CHECKLIST,Other,QUARTERLY,Test 1,Missing Information,Checklist,District
+2407A,DM,HTC,TEST ONE,MI,CHECKLIST,Other,QUARTERLY,Test 1,Missing Information,Checklist,District
+2407A,DM,HTC,TEST TWO,MI,CHECKLIST,Other,QUARTERLY,Test 2,Missing Information,Checklist,District
+2407A,DM,HTC,TEST TWO,MI,CHECKLIST,Other,QUARTERLY,Test 2,Missing Information,Checklist,District
+2407A,DM,Linkage,CD4COUNT,REFER,MI,NA,DAILY,CD4 Count,Referral,Missing Information,District
+2407A,DM,Linkage,CD4COUNT,REFER,MI,NA,DAILY,CD4 Count,Referral,Missing Information,District
+2407A,DM,Linkage,CD4COUNT,BLOODDONOR,MI,NA,DAILY,CD4 Count,Blood Donor,Missing Information,District
+2407A,DM,Linkage,CD4COUNT,BLOODDONOR,MI,NA,DAILY,CD4 Count,Blood Donor,Missing Information,District
+2407A,DM,Retention,TEST CD4COUNT,FOLLOWUP,REG,Register,DAILY,Test CD4 Count,Default Followup,Register,District
+2407A,DM,PMTCT,NAME,EID,REG,Register,DAILY,Name,Early Infant Diagnosis,Register,District
+2407A,DM,PMTCT,NAME,EID,REG,Register,DAILY,Name,Early Infant Diagnosis,Register,District
+2407A,DM,PMTCT,NAME,EID,REG,Register,DAILY,Name,Early Infant Diagnosis,Register,District
+2407A,DM,PMTCT,REGNUM,EID,REG,Register,DAILY,Registration Number,Early Infant Diagnosis,Register,District
+2407A,DM,PMTCT,REGNUM,EID,REG,Register,DAILY,Registration Number,Early Infant Diagnosis,Register,District
+2407A,DM,PMTCT,REGNUM,EID,REG,Register,DAILY,Registration Number,Early Infant Diagnosis,Register,District
+2407A,DM,PMTCT,TEST,EID,REG,Register,DAILY,Number of individuals tested,Early Infant Diagnosis,Register,District
+2407A,DM,PMTCT,TEST,EID,REG,Register,DAILY,Number of individuals tested,Early Infant Diagnosis,Register,District
+2407A,DM,PMTCT,TEST,EID,REG,Register,DAILY,Number of individuals tested,Early Infant Diagnosis,Register,District
+2407A,DM,Resource targeting,DRUG SUPPLY,DRUG SUPPLY,SUPPLYLIST,Other,QUARTERLY,Drug Supply,Drug Supply,Supply List,District
+2407A,DM,Performance management,HIVEXPO,BLOODDONOR,GUIDELINE BLOOD,Guideline,MI,Exposed to HIV,Blood Donor,Blood Donation Guideline,District
+2407A,DM,Performance management,HIVEXPO,BLOODDONOR,GUIDELINE BLOOD,Guideline,MI,Exposed to HIV,Blood Donor,Blood Donation Guideline,District
+2407A,DM,Performance management,PROGPERFORM,PROGPERFORM,GUIDELINE,Guideline,MI,Program Performance,Program Performance,"National, Regional, or International Guideline",District
+2407A,DM,Program Efficiency,TEST,BLOODDONOR,RPT,Report,MONTHLY,Number of individuals tested,Blood Donor,Report,District
+2407A,DM,Program Efficiency,TEST,BLOODDONOR,RPT,Report,MONTHLY,Number of individuals tested,Blood Donor,Report,District
+2407A,DM,Program Efficiency,TEST,BLOODDONOR,RPT,Report,MONTHLY,Number of individuals tested,Blood Donor,Report,District
+2408A,DM,Drugs,NA,NO AUTH,NA,NA,NA,Not Available,No Authority,Not Available,District
+2408A,DM,HTC,NA,NO AUTH,NA,NA,NA,Not Available,No Authority,Not Available,District
+2408A,DM,Resource targeting,HIV STAFF,PRIORITIZE RESOURCE,ENVIRO,Person,BIANNUAL AN,Staff HIV Results,Resource Prioritization,Environmental Health,District
+2408A,DM,Resource targeting,HIV STAFF,PRIORITIZE RESOURCE,ENVIRO,Person,BIANNUAL AN,Staff HIV Results,Resource Prioritization,Environmental Health,District
+2408A,DM,Program Efficiency,COST,COST,PER DHMT,Person,QUARTERLY,Cost And Price,Cost And Price,District Health Management Team,District
+2408A,DM,Program Efficiency,COST,COST,PER SECHEAD,Person,QUARTERLY,Cost And Price,Cost And Price,Section Head,District
+3112A,DM,Drugs,TEST HIVPOS,TREATINIT,MI,NA,MI,Test HIV Positive,Treatment Initiation,Missing Information,Facility
+3112A,DM,Drugs,TEST CD4COUNT,TREATINIT,MI,NA,MI,Test CD4 Count,Treatment Initiation,Missing Information,Facility
+3112A,DM,HTC,TEST HIVPOS,SENS HIV,REG HTC,Register,MONTHLY,Test HIV Positive,Sensitization on HIV,HIV Testing and Counseling Register,Facility
+3112A,DM,Linkage,WHOSTAGE,TREATINIT,REG CPT,Register,MONTHLY,WHO Staging,Treatment Initiation,Co-Trimoxazole Preventive Therapy Register,Facility
+3112A,DM,Linkage,WHOSTAGE,TREATINIT,REG ART,Register,MONTHLY,WHO Staging,Treatment Initiation,Anti-Retroviral Treatment Register,Facility
+3112A,DM,Linkage,WHOSTAGE,TREATINIT,GUIDELINE MWART,Guideline,MONTHLY,WHO Staging,Treatment Initiation,Midwives ART Guideline,Facility
+3112A,DM,Linkage,HIVPOS,TREATINIT,REG CPT,Register,MONTHLY,Number of HIV positive individuals,Treatment Initiation,Co-Trimoxazole Preventive Therapy Register,Facility
+3112A,DM,Linkage,HIVPOS,TREATINIT,REG ART,Register,MONTHLY,Number of HIV positive individuals,Treatment Initiation,Anti-Retroviral Treatment Register,Facility
+3112A,DM,Linkage,HIVPOS,TREATINIT,GUIDELINE MWART,Guideline,MONTHLY,Number of HIV positive individuals,Treatment Initiation,Midwives ART Guideline,Facility
+3112A,DM,Linkage,CD4COUNT,TREATINIT,REG CPT,Register,MONTHLY,CD4 Count,Treatment Initiation,Co-Trimoxazole Preventive Therapy Register,Facility
+3112A,DM,Linkage,CD4COUNT,TREATINIT,REG ART,Register,MONTHLY,CD4 Count,Treatment Initiation,Anti-Retroviral Treatment Register,Facility
+3112A,DM,Linkage,CD4COUNT,TREATINIT,GUIDELINE MWART,Guideline,MONTHLY,CD4 Count,Treatment Initiation,Midwives ART Guideline,Facility
+3112A,DM,Retention,DEFAULT,FOLLOWUP,REG APP,Register,MONTHLY,Defaulters,Default Followup,Appointment Register,Facility
+3112A,DM,Retention,DEFAULT,PRIVACY,REG APP,Register,MONTHLY,Defaulters,Create Privacy In Facility,Appointment Register,Facility
+3112A,DM,VMMC,FORM VMMCCLI,MI,FAC HOSPITAL,Program Office or Location,MONTHLY,VMMC Client Form,Missing Information,Hospital,Facility
+3112A,DM,VMMC,VMMC CIRCUMCISED,SENS VMMC,FILE CLIENT,,DAILY,VMMC Circumcised,Senitized on VMMC,Client File,Facility
+3112A,DM,PMTCT,HIVPOS MOTHER,TREATINIT,REG HTC,Register,DAILY,Number of HIV positive mothers,Treatment Initiation,HIV Testing and Counseling Register,Facility
+3112A,DM,PMTCT,HIVPOS MOTHER,TREATINIT,CARD HP,Patient Card,DAILY,Number of HIV positive mothers,Treatment Initiation,Health Passport,Facility
+3112A,DM,PMTCT,HIVNEG MOTHER,TREATINIT,REG HTC,Register,DAILY,Number of HIV negative mothers,Treatment Initiation,HIV Testing and Counseling Register,Facility
+3112A,DM,PMTCT,HIVNEG MOTHER,TREATINIT,CARD HP,Patient Card,DAILY,Number of HIV negative mothers,Treatment Initiation,Health Passport,Facility
+3112A,DM,PMTCT,MI,TEST,CARD HP,Patient Card,DAILY,Missing Information,Number of individuals tested,Health Passport,Facility
+3112A,DM,Performance management,RETENT,DRUG SUPPLY,REG APP,Register,QUARTERLY,Retention,Drug Supply,Appointment Register,Facility
+3112A,DM,Performance management,RETENT,DRUG SUPPLY,REG DEFAULTTRAC,Register,QUARTERLY,Retention,Drug Supply,Please see Defaulter Register,Facility
+3112A,DM,Performance management,RETENT,DRUG SUPPLY,FLOW TRACE,,QUARTERLY,Retention,Drug Supply,Tracing Flow Chart,Facility
+3112A,DM,Performance management,FOLLOWUP,DRUG SUPPLY,REG APP,Register,QUARTERLY,Default Followup,Drug Supply,Appointment Register,Facility
+3112A,DM,Performance management,FOLLOWUP,DRUG SUPPLY,REG DEFAULTTRAC,Register,QUARTERLY,Default Followup,Drug Supply,Please see Defaulter Register,Facility
+3112A,DM,Performance management,FOLLOWUP,DRUG SUPPLY,FLOW TRACE,,QUARTERLY,Default Followup,Drug Supply,Tracing Flow Chart,Facility
+3112A,DM,Performance management,DRUG SUPPLY,DRUG SUPPLY,REG APP,Register,QUARTERLY,Drug Supply,Drug Supply,Appointment Register,Facility
+3112A,DM,Performance management,DRUG SUPPLY,DRUG SUPPLY,REG DEFAULTTRAC,Register,QUARTERLY,Drug Supply,Drug Supply,Please see Defaulter Register,Facility
+3112A,DM,Performance management,DRUG SUPPLY,DRUG SUPPLY,FLOW TRACE,,QUARTERLY,Drug Supply,Drug Supply,Tracing Flow Chart,Facility
+3112A,DM,Program Efficiency,DEMAND ART,STAFFING,REG ART,Register,MONTHLY,The demand for ART services,Staffing/Workload,Anti-Retroviral Treatment Register,Facility
+3112A,DM,Program Efficiency,DEMAND ART,INCREASE ART,REG ART,Register,MONTHLY,The demand for ART services,Increase ART,Anti-Retroviral Treatment Register,Facility
+3122A,DM,HTC,VCT WOMEN,MALE,REG ANC,Register,MONTHLY,Women Attending VCT,Male Involvement,Antenatal Care Register,Facility
+3122A,DM,HTC,VCT WOMEN,MALE,PER CLERK DATA,Person,MONTHLY,Women Attending VCT,Male Involvement,Data Clerk,Facility
+3122A,DM,HTC,VCT WOMEN,MALE,REG HTC,Register,MONTHLY,Women Attending VCT,Male Involvement,HIV Testing and Counseling Register,Facility
+3122A,DM,HTC,VCT HUSBAND,MALE,REG ANC,Register,MONTHLY,Husbands of Pregnant Women Attending VCT,Male Involvement,Antenatal Care Register,Facility
+3122A,DM,HTC,VCT HUSBAND,MALE,PER CLERK DATA,Person,MONTHLY,Husbands of Pregnant Women Attending VCT,Male Involvement,Data Clerk,Facility
+3122A,DM,HTC,VCT HUSBAND,MALE,REG HTC,Register,MONTHLY,Husbands of Pregnant Women Attending VCT,Male Involvement,HIV Testing and Counseling Register,Facility
+3122A,DM,HTC,TEST HIV,INTEGRATE,REG HTC,Register,MONTHLY,Test HIV,Integrate Services,HIV Testing and Counseling Register,Facility
+3122A,DM,Linkage,TEST HIVPOS,REFER,REG HTC,Register,WEEKLY,Test HIV Positive,Referral,HIV Testing and Counseling Register,Facility
+3122A,DM,Linkage,TEST HIVNEG,REFER,REG HTC,Register,WEEKLY,Test HIV Negative,Referral,HIV Testing and Counseling Register,Facility
+3122A,DM,Linkage,TEST CD4COUNT,CD4COUNT,REG HCC,Register,WEEKLY,Test CD4 Count,CD4 Count,Health Center Committee Register,Facility
+3122A,DM,Retention,DEFAULT ART,FOLLOWUP,CARD MAS,Patient Card,ASNEED,Number of patients on ART that default,Default Followup,Master Card,Facility
+3122A,DM,Retention,DEFAULT ART,FOLLOWUP,REG ART,Register,ASNEED,Number of patients on ART that default,Default Followup,Anti-Retroviral Treatment Register,Facility
+3122A,DM,PMTCT,DEFAULT EXPOSECHILD,FOLLOWUP,CARD MAS,Patient Card,ASNEED,Number of exposed children that default,Default Followup,Master Card,Facility
+3122A,DM,PMTCT,DEFAULT EXPOSECHILD,FOLLOWUP,REG ART,Register,ASNEED,Number of exposed children that default,Default Followup,Anti-Retroviral Treatment Register,Facility
+3122A,DM,Program Efficiency,STAFF,STAFFING,OFF DHO,Program Office or Location,MI,Staff Per Facility,Staffing/Workload,District Health Office,Facility
+3132A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,REG ART,Register,WEEKLY,Drug Supply,Drug Supply,Anti-Retroviral Treatment Register,Facility
+3132A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,REG REAL,Register,WEEKLY,Drug Supply,Drug Supply,REAL Register,Facility
+3132A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Drug Supply,Drug Supply,Stock Card,Facility
+3132A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,WEEKLY,Drug Supply,Drug Supply,Facility,Facility
+3132A,DM,Drugs,DRUG CODE,DRUG SUPPLY,REG ART,Register,WEEKLY,Drug Code,Drug Supply,Anti-Retroviral Treatment Register,Facility
+3132A,DM,Drugs,DRUG CODE,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Drug Code,Drug Supply,Stock Card,Facility
+3132A,DM,Drugs,DRUG CODE,DRUG SUPPLY,FAC,Program Office or Location,WEEKLY,Drug Code,Drug Supply,Facility,Facility
+3132A,DM,Drugs,DRUG CODE,DRUG SUPPLY,OFF HIVDEP,Program Office or Location,WEEKLY,Drug Code,Drug Supply,HIV Department,Facility
+3132A,DM,Drugs,DRUG CODE,DRUG SUPPLY,REG REAL,Register,WEEKLY,Drug Code,Drug Supply,REAL Register,Facility
+3132A,DM,Drugs,TREAT ART,DRUG SUPPLY,REG ART,Register,WEEKLY,Treatment ART,Drug Supply,Anti-Retroviral Treatment Register,Facility
+3132A,DM,Drugs,TREAT ART,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Treatment ART,Drug Supply,Stock Card,Facility
+3132A,DM,Drugs,TREAT ART,DRUG SUPPLY,FAC,Program Office or Location,WEEKLY,Treatment ART,Drug Supply,Facility,Facility
+3132A,DM,Drugs,TREAT ART,DRUG SUPPLY,OFF HIVDEP,Program Office or Location,WEEKLY,Treatment ART,Drug Supply,HIV Department,Facility
+3132A,DM,Drugs,TREAT ART,DRUG SUPPLY,REG REAL,Register,WEEKLY,Treatment ART,Drug Supply,REAL Register,Facility
+3132A,DM,HTC,TEST HIV,MI,MI,NA,MI,Test HIV,Missing Information,Missing Information,Facility
+3132A,DM,HTC,TEST HIVPOS,MI,MI,NA,MI,Test HIV Positive,Missing Information,Missing Information,Facility
+3132A,DM,HTC,TEST HIVPOS PREGNANT,MI,MI,NA,MI,Number of pregnant women tested HIV positive,Missing Information,Missing Information,Facility
+3132A,DM,Linkage,CD4COUNT,TREATINIT,CARD ARTMAS,Patient Card,ASNEED,CD4 Count,Treatment Initiation,ART Master Card,Facility
+3132A,DM,Linkage,CD4COUNT,TREATINIT,CARD HP,Patient Card,ASNEED,CD4 Count,Treatment Initiation,Health Passport,Facility
+3132A,DM,Linkage,CD4COUNT,STAGE,CARD HP,Patient Card,ASNEED,CD4 Count,Stage Patients,Health Passport,Facility
+3132A,DM,Linkage,CD4COUNT,STAGE,CARD ARTMAS,Patient Card,ASNEED,CD4 Count,Stage Patients,ART Master Card,Facility
+3132A,DM,Linkage,CD4COUNT,STAGE,GUIDELINE WHO,Guideline,ASNEED,CD4 Count,Stage Patients,WHO Guideline,Facility
+3132A,DM,Linkage,CD4COUNT,REFER TEST TB,CARD HP,Patient Card,ASNEED,CD4 Count,Refer To Test For TB,Health Passport,Facility
+3132A,DM,Linkage,CD4COUNT,REFER TEST TB,CARD ARTMAS,Patient Card,ASNEED,CD4 Count,Refer To Test For TB,ART Master Card,Facility
+3132A,DM,Linkage,CD4COUNT,REFER TEST TB,GUIDELINE WHO,Guideline,ASNEED,CD4 Count,Refer To Test For TB,WHO Guideline,Facility
+3132A,DM,Retention,DEFAULT,FOLLOWUP,REG ART,Register,ASNEED,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+3132A,DM,Retention,DEFAULT,FOLLOWUP,CARD HP,Patient Card,ASNEED,Defaulters,Default Followup,Health Passport,Facility
+3132A,DM,Retention,CARD ARTMISS,DQ,CARD ARTMAS,Patient Card,ASNEED,Missing ART Cards,Data Quality Check,ART Master Card,Facility
+3132A,DM,Retention,CARD ARTMISS,DQ,CARD HP,Patient Card,ASNEED,Missing ART Cards,Data Quality Check,Health Passport,Facility
+3132A,DM,PMTCT,HIVPOS,FOLLOWUP,CARD MHP,Patient Card,ASNEED,Number of HIV positive individuals,Default Followup,Mother Health Passport,Facility
+3132A,DM,PMTCT,HIVPOS,FOLLOWUP,CARD CHP,Patient Card,ASNEED,Number of HIV positive individuals,Default Followup,Child Health Passport,Facility
+3132A,DM,PMTCT,HIVNEG,FOLLOWUP,CARD MHP,Patient Card,ASNEED,Number of HIV negative individuals,Default Followup,Mother Health Passport,Facility
+3132A,DM,PMTCT,HIVNEG,FOLLOWUP,CARD CHP,Patient Card,ASNEED,Number of HIV negative individuals,Default Followup,Child Health Passport,Facility
+3132A,DM,Performance management,DEFAULT,FACPERFORM,REG ART,Register,QUARTERLY,Defaulters,Facility Performance,Anti-Retroviral Treatment Register,Facility
+3132A,DM,Performance management,DEFAULT,FACPERFORM,RPT SUPER,Report,QUARTERLY,Defaulters,Facility Performance,Supervision Report,Facility
+3132A,DM,Program Efficiency,MI,SHIFTAPT,MI,NA,MI,Missing Information,Shift Appointments To Alleviate Staffing Gaps,Missing Information,Facility
+3132A,DM,Program Efficiency,MI,STAFFING,MI,NA,MI,Missing Information,Staffing/Workload,Missing Information,Facility
+3142A,DM,Drugs,TREAT ART,DRUG SUPPLY,REG ART,Register,WEEKLY,Treatment ART,Drug Supply,Anti-Retroviral Treatment Register,Facility
+3142A,DM,Drugs,TREAT ART,DRUG SUPPLY,REG ART,Register,WEEKLY,Treatment ART,Drug Supply,Anti-Retroviral Treatment Register,Facility
+3142A,DM,Drugs,TREAT ART,DRUG SUPPLY,REG ART,Register,WEEKLY,Treatment ART,Drug Supply,Anti-Retroviral Treatment Register,Facility
+3142A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Drug Consumption,Drug Supply,Stock Card,Facility
+3142A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Drug Consumption,Drug Supply,Stock Card,Facility
+3142A,DM,Drugs,DRUG CONSUMP,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Drug Consumption,Drug Supply,Stock Card,Facility
+3142A,DM,Drugs,DRUG SUPPLY,DRUG CONSUMP,CARD STOCK,Register,WEEKLY,Drug Supply,Drug Consumption,Stock Card,Facility
+3142A,DM,Drugs,DRUG SUPPLY,DRUG CONSUMP,PER CLIN ART,Person,WEEKLY,Drug Supply,Drug Consumption,ART Clinician,Facility
+3142A,DM,Drugs,DRUG SUPPLY,DRUG CONSUMP,CARD STOCK,Register,WEEKLY,Drug Supply,Drug Consumption,Stock Card,Facility
+3142A,DM,Drugs,DRUG SUPPLY,DRUG CONSUMP,PER CLIN ART,Person,WEEKLY,Drug Supply,Drug Consumption,ART Clinician,Facility
+3142A,DM,HTC,TEST HIV,SENS,REG HTC,Register,MONTHLY,Test HIV,Sensitization,HIV Testing and Counseling Register,Facility
+3142A,DM,HTC,PREVALENCE,SENS,REG HTC,Register,MONTHLY,Prevalence Rate HIV,Sensitization,HIV Testing and Counseling Register,Facility
+3142A,DM,HTC,TEST HIVPOS,SENS,REG HTC,Register,MONTHLY,Test HIV Positive,Sensitization,HIV Testing and Counseling Register,Facility
+3142A,DM,HTC,TEST HIV,TEST CAMP,REG HTC,Register,MONTHLY,Test HIV,Conduct Test Camp,HIV Testing and Counseling Register,Facility
+3142A,DM,HTC,TEST HIVPOS,TEST CAMP,REG HTC,Register,MONTHLY,Test HIV Positive,Conduct Test Camp,HIV Testing and Counseling Register,Facility
+3142A,DM,Linkage,DEFAULT,FOLLOWUP,REG ART,Register,WEEKLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+3142A,DM,Linkage,DEFAULT,FOLLOWUP,REG ART,Register,WEEKLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+3142A,DM,Linkage,DEFAULT,FOLLOWUP,REG ART,Register,WEEKLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+3142A,DM,Retention,DEFAULT,FOLLOWUP,REG ART,Register,WEEKLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+3142A,DM,Retention,DEFAULT,FOLLOWUP,REG ART,Register,WEEKLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+3142A,DM,Retention,DEFAULT,FOLLOWUP,REG ART,Register,WEEKLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+3142A,DM,PMTCT,TREAT ART PREGNANT,SENS PMTCT,REG MATERNITY,Register,WEEKLY,Pregnant Women on ART,Sensitization on PMTCT,Maternity Register,Facility
+3142A,DM,PMTCT,TREAT ART PREGNANT,SENS PMTCT,REG MATERNITY,Register,WEEKLY,Pregnant Women Not On Art,Sensitization on PMTCT,Maternity Register,Facility
+3142A,DM,Performance management,DQ,DQ,RPT,Report,MONTHLY,Data Quality Check,Data Quality Check,Report,Facility
+3142A,DM,Performance management,DQ,DQ,REG,Register,MONTHLY,Data Quality Check,Data Quality Check,Register,Facility
+3142A,DM,Program Efficiency,TEST HIVPOS PREGNANT,PRIORITIZE CLIENT,REG MATERNITY,Register,MONTHLY,Number of pregnant women tested HIV positive,Prioritize Client,Maternity Register,Facility
+3142A,DM,Program Efficiency,CD4COUNT,PRIORITIZE CLIENT,REG ART,Register,MONTHLY,CD4 Count,Prioritize Client,Anti-Retroviral Treatment Register,Facility
+3142A,DM,Program Efficiency,TEST HIVPOS STI,PRIORITIZE CLIENT,REG STI,Register,MONTHLY,Number of HIV positive individuals with a sexually transmitted infection,Prioritize Client,Sexually Transmitted Infection Register,Facility
+3292A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Supply,Drug Supply,Stock Card,Facility
+3292A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Supply,Drug Supply,Stock Card,Facility
+3292A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Supply,Drug Supply,Stock Card,Facility
+3292A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,MONTHLY,Drug Supply,Drug Supply,Stock Card,Facility
+3292A,DM,HTC,DRUG SUPPLY,TREATINIT,REG HMIS,Register,MONTHLY,Drug Supply,Treatment Initiation,Health Management Information System Register,Facility
+3292A,DM,HTC,DRUG SUPPLY,TREATINIT,REG HMIS,Register,MONTHLY,Drug Supply,Treatment Initiation,Health Management Information System Register,Facility
+3292A,DM,HTC,DRUG SUPPLY,TREATINIT,REG HMIS,Register,MONTHLY,Drug Supply,Treatment Initiation,Health Management Information System Register,Facility
+3292A,DM,HTC,HIVSTAGE,BOOKAPPT,REG STI,Register,MI,Stage of HIV Advancement,Book Appointment,Sexually Transmitted Infection Register,Facility
+3292A,DM,HTC,MI,MI,REG ANC,Register,MI,Missing Information,Missing Information,Antenatal Care Register,Facility
+3292A,DM,HTC,MI,MI,REG M2M,Register,MI,Missing Information,Missing Information,Mother 2 Mother Register,Facility
+3292A,DM,Linkage,MI,SCREEN,REG HTC,Register,DAILY,Missing Information,Type Of Screening,HIV Testing and Counseling Register,Facility
+3292A,DM,Linkage,MI,TREATINIT,RPT LABORATORY,Report,MI,Missing Information,Treatment Initiation,Laboratory Report,Facility
+3292A,DM,Retention,DEFAULT,FOLLOWUP,REG ART,Register,QUARTERLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+3292A,DM,Retention,MI,MI,REG MATERNITY,Register,MI,Missing Information,Missing Information,Maternity Register,Facility
+3292A,DM,PMTCT,TEST HIVPOS MOTHER,TREATINIT,REG ANC,Register,WEEKLY,Mothers Tested HIV Positive,Treatment Initiation,Antenatal Care Register,Facility
+3292A,DM,PMTCT,TEST HIVPOS INFANT,TREATINIT,REG MATERNITY,Register,MI,Number of infants tested HIV positive,Treatment Initiation,Maternity Register,Facility
+3292A,DM,Performance management,DEFAULT,DQ,FAC ART,Program Office or Location,QUARTERLY,Defaulters,Data Quality Check,ART Clinic,Facility
+3292A,DM,Performance management,TREAT ART,PROTOADHERE,MI,NA,MI,Treatment ART,Protocol Adherence,Missing Information,Facility
+3292A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE CLIENT,CARD STOCK,Register,MONTHLY,Drug Supply,Prioritize Client,Stock Card,Facility
+3292A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE CLIENT,CARD STOCK,Register,MONTHLY,Drug Supply,Prioritize Client,Stock Card,Facility
+3292A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE CLIENT,CARD STOCK,Register,MONTHLY,Drug Supply,Prioritize Client,Stock Card,Facility
+3452A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Drug Supply,Drug Supply,Stock Card,Facility
+3452A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Drug Supply,Drug Supply,Stock Card,Facility
+3452A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD MAS,Patient Card,WEEKLY,Drug Supply,Drug Supply,Master Card,Facility
+3452A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD MAS,Patient Card,WEEKLY,Drug Supply,Drug Supply,Master Card,Facility
+3452A,DM,Linkage,CD4COUNT,WHOSTAGE,FAC HCC,Program Office or Location,DAILY,CD4 Count,WHO Staging,HIV Care Clinic.  Please see ART Clinic,Facility
+3452A,DM,Linkage,CD4COUNT,WHOSTAGE,REG CD4,Register,DAILY,CD4 Count,WHO Staging,CD4 Count Register,Facility
+3452A,DM,Linkage,HEALTH,VCT,CARD ARTMAS,Patient Card,DAILY,Health Status,Voluntary Counseling and Testing,ART Master Card,Facility
+3452A,DM,Linkage,HEALTH,VCT,CARD MAS,Patient Card,DAILY,Health Status,Voluntary Counseling and Testing,Master Card,Facility
+3452A,DM,Retention,DEFAULT,REFER,REG ART,Register,WEEKLY,Defaulters,Referral,Anti-Retroviral Treatment Register,Facility
+3452A,DM,Retention,DRUG ADHERE,REFER,REG CD4,Register,WEEKLY,Number of individual adhering to drug protocol,Referral,CD4 Count Register,Facility
+3452A,DM,Retention,DRUG ADHERE,REFER,CARD HP,Patient Card,WEEKLY,Number of individual adhering to drug protocol,Referral,Health Passport,Facility
+3452A,DM,PMTCT,TEST HIVPOS PREGNANT,TREATINIT,REG ANC,Register,DAILY,Number of pregnant women tested HIV positive,Treatment Initiation,Antenatal Care Register,Facility
+3452A,DM,Performance management,TREAT ART,SETMEETING,RPT ART,Report,QUARTERLY,Treatment ART,Set Meeting,ART Report,Facility
+3452A,DM,Performance management,MORTALITY,SETMEETING,RPT ART,Report,QUARTERLY,Mortality,Set Meeting,ART Report,Facility
+3452A,DM,Performance management,DEFAULT,SETMEETING,RPT ART,Report,QUARTERLY,Defaulters,Set Meeting,ART Report,Facility
+3452A,DM,Performance management,DEFAULTREASON,SETMEETING,RPT ART,Report,QUARTERLY,The reason an individual defaults,Set Meeting,ART Report,Facility
+3452A,DM,Program Efficiency,DRUG EXPIRY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Expiry,Drug Supply,Stock Card,Facility
+3452A,DM,Program Efficiency,DRUG EXPIRY,DRUG SUPPLY,FAC,Program Office or Location,ASNEED,Drug Expiry,Drug Supply,Facility,Facility
+3452A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,ASNEED,Drug Supply,Drug Supply,Stock Card,Facility
+3452A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,ASNEED,Drug Supply,Drug Supply,Facility,Facility
+3452A,DM,Program Efficiency,MI,STAFFING,MI,NA,MI,Missing Information,Staffing/Workload,Missing Information,Facility
+3462A,DM,Drugs,NA,DONTKNOW,NA,,NA,Not Available,Don't Know,Not Available,Facility
+3462A,DM,HTC,TEST HIVPOS,MI,MI,NA,MI,Test HIV Positive,Missing Information,Missing Information,Facility
+3462A,DM,HTC,TEST HIVNEG,MI,MI,NA,MI,Test HIV Negative,Missing Information,Missing Information,Facility
+3462A,DM,HTC,TREAT,MI,MI,NA,MI,Patients Treated,Missing Information,Missing Information,Facility
+3462A,DM,Retention,DEFAULT,FOLLOWUP,RPT COHORT,Report,QUARTERLY,Defaulters,Default Followup,Quarterly Cohort,Facility
+3462A,DM,Retention,DEFAULT,FOLLOWUP,CARD PAT,Patient Card,QUARTERLY,Defaulters,Default Followup,Patient Cards include Pink and Yellow Cards,Facility
+3462A,DM,Retention,DEFAULT,PROGPERFORM,RPT COHORT,Report,QUARTERLY,Defaulters,Program Performance,Quarterly Cohort,Facility
+3462A,DM,Retention,DEFAULT,PROGPERFORM,CARD PAT,Patient Card,QUARTERLY,Defaulters,Program Performance,Patient Cards include Pink and Yellow Cards,Facility
+3462A,DM,Performance management,MI,FACPERFORM,MI,NA,MI,Missing Information,Facility Performance,Missing Information,Facility
+3472A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,DAILY,Drug Supply,Drug Supply,Stock Card,Facility
+3472A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,DAILY,Drug Supply,Drug Supply,Stock Card,Facility
+3472A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,DAILY,Drug Supply,Drug Supply,Stock Card,Facility
+3472A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,DAILY,Drug Supply,Drug Supply,Facility,Facility
+3472A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,DAILY,Drug Supply,Drug Supply,Facility,Facility
+3472A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,DAILY,Drug Supply,Drug Supply,Facility,Facility
+3472A,DM,Linkage,TEST HIV,TREATINIT,REG HTC,Register,2XWEEK,Test HIV,Treatment Initiation,HIV Testing and Counseling Register,Facility
+3472A,DM,Retention,DEFAULT,FOLLOWUP,CARD MAS,Patient Card,QUARTERLY,Defaulters,Default Followup,Master Card,Facility
+3472A,DM,Retention,DEFAULT,FOLLOWUP,CARD MAS,Patient Card,QUARTERLY,Defaulters,Default Followup,Master Card,Facility
+3472A,DM,PMTCT,TEST HIVPOS PREGNANT,TEST,REG ANC,Register,DAILY,Number of pregnant women tested HIV positive,Number of individuals tested,Antenatal Care Register,Facility
+3472A,DM,PMTCT,HIVEXPO CHILD,TEST,REG ANC,Register,DAILY,Number of children exposed to HIV,Number of individuals tested,Antenatal Care Register,Facility
+3472A,DM,Performance management,TREAT ART,DQ,RPT COHORT,Report,QUARTERLY,Treatment ART,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,TREAT ART,DQ,RPT COHORT,Report,QUARTERLY,Treatment ART,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,TREAT ART,DQ,RPT COHORT,Report,QUARTERLY,Treatment ART,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,TREAT ART,DQ,RPT COHORT,Report,QUARTERLY,Treatment ART,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,MORTALITY,DQ,RPT COHORT,Report,QUARTERLY,Mortality,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,MORTALITY,DQ,RPT COHORT,Report,QUARTERLY,Mortality,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,MORTALITY,DQ,RPT COHORT,Report,QUARTERLY,Mortality,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,MORTALITY,DQ,RPT COHORT,Report,QUARTERLY,Mortality,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,DEFAULT,DQ,RPT COHORT,Report,QUARTERLY,Defaulters,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,DEFAULT,DQ,RPT COHORT,Report,QUARTERLY,Defaulters,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,DEFAULT,DQ,RPT COHORT,Report,QUARTERLY,Defaulters,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,DEFAULT,DQ,RPT COHORT,Report,QUARTERLY,Defaulters,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,HIVEXPO CHILD,DQ,RPT COHORT,Report,QUARTERLY,Number of children exposed to HIV,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,HIVEXPO CHILD,DQ,RPT COHORT,Report,QUARTERLY,Number of children exposed to HIV,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,HIVEXPO CHILD,DQ,RPT COHORT,Report,QUARTERLY,Number of children exposed to HIV,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Performance management,HIVEXPO CHILD,DQ,RPT COHORT,Report,QUARTERLY,Number of children exposed to HIV,Data Quality Check,Quarterly Cohort,Facility
+3472A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,DAILY,Drug Supply,Drug Supply,Stock Card,Facility
+3472A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,DAILY,Drug Supply,Drug Supply,Stock Card,Facility
+3472A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,DAILY,Drug Supply,Drug Supply,Stock Card,Facility
+3472A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,DAILY,Drug Supply,Drug Supply,Stock Card,Facility
+3472A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,DAILY,Drug Supply,Drug Supply,Facility,Facility
+3472A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,DAILY,Drug Supply,Drug Supply,Facility,Facility
+3472A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,DAILY,Drug Supply,Drug Supply,Facility,Facility
+3472A,DM,Program Efficiency,DRUG SUPPLY,DRUG SUPPLY,FAC,Program Office or Location,DAILY,Drug Supply,Drug Supply,Facility,Facility
+10011A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,PHONE,Other,QUARTERLY,Drug Supply,Drug Supply,Phone,Central
+10011A,DM,Linkage,MI,INTEGRATE,MEETING,Meeting or group,QUARTERLY,Missing Information,Integrate Services,Meeting,Central
+10011A,DM,Linkage,MI,INTEGRATE,MEETING,Meeting or group,QUARTERLY,Missing Information,Integrate Services,Meeting,Central
+10011A,DM,Linkage,MI,INTEGRATE,PER SUPER,Person,QUARTERLY,Missing Information,Integrate Services,Supervisor,Central
+10011A,DM,Linkage,MI,INTEGRATE,PER SUPER,Person,QUARTERLY,Missing Information,Integrate Services,Supervisor,Central
+10011A,DM,Retention,DEFAULTRATE,RETENT,MEETING,Meeting or group,QUARTERLY,The default rate,Retention,Meeting,Central
+10011A,DM,Program Efficiency,BUDGET,COORDINATE,MEETING,Meeting or group,QUARTERLY,Facility or Regional Budget,Partner/Stakeholder Coordination,Meeting,Central
+10012A,DM,HTC,NA,PROGPERFORM,MEETING,Meeting or group,QUARTERLY,Not Available,Program Performance,Meeting,Central
+10012A,DM,Retention,MI,RETENT,MI,NA,MI,Missing Information,Retention,Missing Information,Central
+10012A,DM,PMTCT,MI,UPTAKE,MI,NA,MI,Missing Information,Increase Uptake/Demand Creation,Missing Information,Central
+10012A,DM,PMTCT,TREAT ART,MI,MI,NA,MI,Treatment ART,Missing Information,Missing Information,Central
+10012A,DM,PMTCT,DEFAULTRATE,MI,MI,NA,MI,The default rate,Missing Information,Missing Information,Central
+10012A,DM,Resource targeting,NEWCASE,PROGPERFORM,MINUTE,Other,QUARTERLY,New Cases,Program Performance,Minute,Central
+10012A,DM,Resource targeting,NEWCASE,PROGPERFORM,RPT,Report,QUARTERLY,New Cases,Program Performance,Report,Central
+10012A,DM,Resource targeting,NEWCASE,PROGPERFORM,MEETING,Meeting or group,QUARTERLY,New Cases,Program Performance,Meeting,Central
+10012A,DM,Program Efficiency,MI,PROGPERFORM,MEETING,Meeting or group,BIANNUAL,Missing Information,Program Performance,Meeting,Central
+32102A,DM,Drugs,TREAT ART,DRUG SUPPLY,CARD STOCK,Register,3XMONTH,Treatment ART,Drug Supply,Stock Card,Facility
+32102A,DM,HTC,CD4COUNT,TREATINIT,REG ART,Register,DAILY,CD4 Count,Treatment Initiation,Anti-Retroviral Treatment Register,Facility
+32102A,DM,HTC,VIRAL,MI,REG ELEC,Register,MI,Viral Load,Missing Information,BOABAB Electronic Register,Facility
+32102A,DM,HTC,MI,MI,REG CLIN,Register,MI,Missing Information,Missing Information,Clinical Register,Facility
+32102A,DM,Linkage,VIRAL,TREATINIT,REG HTC,Register,DAILY,Viral Load,Treatment Initiation,HIV Testing and Counseling Register,Facility
+32102A,DM,Linkage,VIRAL,TREATINIT,REG HTC,Register,DAILY,Viral Load,Treatment Initiation,HIV Testing and Counseling Register,Facility
+32102A,DM,Linkage,CD4COUNT,MI,REG CD4,Register,MI,CD4 Count,Missing Information,CD4 Count Register,Facility
+32102A,DM,Linkage,MI,MI,REG VIRAL,Register,MI,Missing Information,Missing Information,Viral Load Register,Facility
+32102A,DM,Retention,DEFAULT,FOLLOWUP,REG ART,Register,MONTHLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+32102A,DM,Retention,MORTALITY,SENS,REG ELEC,Register,MI,Mortality,Sensitization,BOABAB Electronic Register,Facility
+32102A,DM,PMTCT,TEST HIVPOS MOTHER,TREATINIT,REG ANC,Register,DAILY,Mothers Tested HIV Positive,Treatment Initiation,Antenatal Care Register,Facility
+32102A,DM,PMTCT,MI,MI,REG MATERNITY,Register,MI,Missing Information,Missing Information,Maternity Register,Facility
+32102A,DM,PMTCT,MI,MI,REG HTC,Register,MI,Missing Information,Missing Information,HIV Testing and Counseling Register,Facility
+32102A,DM,PMTCT,MI,MI,REG EID,Register,MI,Missing Information,Missing Information,Early Infant Diagnosis Register,Facility
+32102A,DM,Performance management,MORTALITY,MENTOR,REG HTC,Register,MONTHLY,Mortality,Mentor,HIV Testing and Counseling Register,Facility
+32102A,DM,Performance management,DEFAULT,MENTOR,REG ART,Register,MI,Defaulters,Mentor,Anti-Retroviral Treatment Register,Facility
+32102A,DM,Performance management,MI,MI,REG ELEC,Register,MI,Missing Information,Missing Information,BOABAB Electronic Register,Facility
+32102A,DM,Performance management,MI,MI,REG ANC,Register,MI,Missing Information,Missing Information,Antenatal Care Register,Facility
+32102A,DM,Program Efficiency,MI,MI,CARD STOCK,Register,MI,Missing Information,Missing Information,Stock Card,Facility
+32102A,DM,Program Efficiency,TEST HIVPOS PREGNANT,PRIORITIZE CLIENT,REG ANC,Register,WEEKLY,Number of pregnant women tested HIV positive,Prioritize Client,Antenatal Care Register,Facility
+32102A,DM,Program Efficiency,TEST HIVPOS PREGNANT,REFER,REG ANC,Register,WEEKLY,Number of pregnant women tested HIV positive,Referral,Antenatal Care Register,Facility
+32102A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE CLIENT,REG ANC,Register,WEEKLY,Drug Supply,Prioritize Client,Antenatal Care Register,Facility
+32102A,DM,Program Efficiency,DRUG SUPPLY,REFER,REG ANC,Register,WEEKLY,Drug Supply,Referral,Antenatal Care Register,Facility
+32102A,DM,Program Efficiency,TEST HIVPOS PREGNANT,PRIORITIZE CLIENT,REG HTC,Register,MI,Number of pregnant women tested HIV positive,Prioritize Client,HIV Testing and Counseling Register,Facility
+32102A,DM,Program Efficiency,HIVPOS UNDER,PRIORITIZE CLIENT,REG ELEC,Register,MI,HIV Positive Malnourished,Prioritize Client,BOABAB Electronic Register,Facility
+32102A,DM,Program Efficiency,MI,MI,REG ART,Register,MI,Missing Information,Missing Information,Anti-Retroviral Treatment Register,Facility
+32112A,DM,Drugs,TREAT,DRUG SUPPLY,CARD STOCK,Register,DAILY,Patients Treated,Drug Supply,Stock Card,Facility
+32112A,DM,Drugs,TREAT,DRUG SUPPLY,CARD STOCK,Register,DAILY,Patients Treated,Drug Supply,Stock Card,Facility
+32112A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,DAILY,Drug Supply,Drug Supply,Stock Card,Facility
+32112A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,DAILY,Drug Supply,Drug Supply,Stock Card,Facility
+32112A,DM,HTC,TEST HIVPOS,DRUG SUPPLY,REG HTC,Register,BIWEEKLY,Test HIV Positive,Drug Supply,HIV Testing and Counseling Register,Facility
+32112A,DM,HTC,TEST HIVPOS,DRUG SUPPLY,REG HTC,Register,BIWEEKLY,Test HIV Positive,Drug Supply,HIV Testing and Counseling Register,Facility
+32112A,DM,Linkage,CD4COUNT,REFER,REG ART,Register,DAILY,CD4 Count,Referral,Anti-Retroviral Treatment Register,Facility
+32112A,DM,Linkage,CD4COUNT,REFER,REG ART,Register,DAILY,CD4 Count,Referral,Anti-Retroviral Treatment Register,Facility
+32112A,DM,Linkage,CD4COUNT,REFER,REG HTC,Register,DAILY,CD4 Count,Referral,HIV Testing and Counseling Register,Facility
+32112A,DM,Linkage,CD4COUNT,REFER,REG HTC,Register,DAILY,CD4 Count,Referral,HIV Testing and Counseling Register,Facility
+32112A,DM,Retention,DEFAULT,STAFFING,CARD MAS,Patient Card,QUARTERLY,Defaulters,Staffing/Workload,Master Card,Facility
+32112A,DM,Retention,DEFAULT,STAFFING,CARD MAS,Patient Card,QUARTERLY,Defaulters,Staffing/Workload,Master Card,Facility
+32112A,DM,Retention,DEFAULT,STAFFING,CARD MAS,Patient Card,QUARTERLY,Defaulters,Staffing/Workload,Master Card,Facility
+32112A,DM,Retention,DEFAULT,STAFFING,CARD MAS,Patient Card,QUARTERLY,Defaulters,Staffing/Workload,Master Card,Facility
+32112A,DM,PMTCT,TEST HIVPOS PREGNANT,TREATINIT,REG MATERNITY,Register,WEEKLY,Number of HIV positive pregnant women,Treatment Initiation,Maternity Register,Facility
+32112A,DM,PMTCT,TEST HIVPOS PREGNANT,TREATINIT,REG MATERNITY,Register,WEEKLY,Number of HIV positive pregnant women,Treatment Initiation,Maternity Register,Facility
+32112A,DM,PMTCT,TEST HIVPOS PREGNANT,TREATINIT,REG MATERNITY,Register,WEEKLY,Number of HIV positive pregnant women,Treatment Initiation,Maternity Register,Facility
+32112A,DM,PMTCT,TEST HIVPOS PREGNANT,TREATINIT,REG EID,Register,WEEKLY,Number of HIV positive pregnant women,Treatment Initiation,Early Infant Diagnosis Register,Facility
+32112A,DM,PMTCT,TEST HIVPOS PREGNANT,TREATINIT,REG EID,Register,WEEKLY,Number of HIV positive pregnant women,Treatment Initiation,Early Infant Diagnosis Register,Facility
+32112A,DM,PMTCT,TEST HIVPOS PREGNANT,TREATINIT,REG EID,Register,WEEKLY,Number of HIV positive pregnant women,Treatment Initiation,Early Infant Diagnosis Register,Facility
+32112A,DM,Performance management,TREAT,STAFFING,REG,Register,2XWEEK,Patients Treated,Staffing/Workload,Register,Facility
+32112A,DM,Performance management,TREAT,STAFFING,REG,Register,2XWEEK,Patients Treated,Staffing/Workload,Register,Facility
+32112A,DM,Program Efficiency,MI,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Missing Information,Drug Supply,Stock Card,Facility
+32112A,DM,Program Efficiency,MI,DRUG SUPPLY,REG ART,Register,WEEKLY,Missing Information,Drug Supply,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Drugs,TREAT,DRUG SUPPLY,OFF PHARM,Program Office or Location,BIWEEKLY,Patients Treated,Drug Supply,Pharmacy,Facility
+32132A,DM,Drugs,TREAT,DRUG SUPPLY,OFF PHARM,Program Office or Location,BIWEEKLY,Patients Treated,Drug Supply,Pharmacy,Facility
+32132A,DM,Drugs,TREAT,DRUG SUPPLY,OFF PHARM,Program Office or Location,BIWEEKLY,Patients Treated,Drug Supply,Pharmacy,Facility
+32132A,DM,Drugs,NEWINFECTMONTH,DRUG SUPPLY,OFF PHARM,Program Office or Location,BIWEEKLY,New Infections Per Month,Drug Supply,Pharmacy,Facility
+32132A,DM,Drugs,NEWINFECTMONTH,DRUG SUPPLY,OFF PHARM,Program Office or Location,BIWEEKLY,New Infections Per Month,Drug Supply,Pharmacy,Facility
+32132A,DM,Drugs,NEWINFECTMONTH,DRUG SUPPLY,OFF PHARM,Program Office or Location,BIWEEKLY,New Infections Per Month,Drug Supply,Pharmacy,Facility
+32132A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,OFF PHARM,Program Office or Location,BIWEEKLY,Drug Supply,Drug Supply,Pharmacy,Facility
+32132A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,OFF PHARM,Program Office or Location,BIWEEKLY,Drug Supply,Drug Supply,Pharmacy,Facility
+32132A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,OFF PHARM,Program Office or Location,BIWEEKLY,Drug Supply,Drug Supply,Pharmacy,Facility
+32132A,DM,HTC,TREAT,TREATINIT,FAC VCT,Program Office or Location,WEEKLY M,Patients Treated,Treatment Initiation,Voluntary Counseling and Testing Clinic,Facility
+32132A,DM,HTC,TREAT,TREATINIT,FAC VCT,Program Office or Location,WEEKLY M,Patients Treated,Treatment Initiation,Voluntary Counseling and Testing Clinic,Facility
+32132A,DM,HTC,TREAT,TREATINIT,FAC MATERNITY,Program Office or Location,WEEKLY M,Patients Treated,Treatment Initiation,Maternity Clinic,Facility
+32132A,DM,HTC,TREAT,TREATINIT,FAC MATERNITY,Program Office or Location,WEEKLY M,Patients Treated,Treatment Initiation,Maternity Clinic,Facility
+32132A,DM,HTC,TREAT,TREATINIT,PARTNER MSH,External Partner,WEEKLY M,Patients Treated,Treatment Initiation,Management Sciences for Health,Facility
+32132A,DM,HTC,TREAT,TREATINIT,PARTNER MSH,External Partner,WEEKLY M,Patients Treated,Treatment Initiation,Management Sciences for Health,Facility
+32132A,DM,HTC,TREAT,TREATINIT,PARTNER MSF,External Partner,WEEKLY M,Patients Treated,Treatment Initiation,Doctors without Borders,Facility
+32132A,DM,HTC,TREAT,TREATINIT,PARTNER MSF,External Partner,WEEKLY M,Patients Treated,Treatment Initiation,Doctors without Borders,Facility
+32132A,DM,HTC,TEST HIVPOS MOTHER,TREATINIT,FAC MATERNITY,Program Office or Location,WEEKLY M,Mothers Tested HIV Positive,Treatment Initiation,Maternity Clinic,Facility
+32132A,DM,HTC,TEST HIVPOS MOTHER,TREATINIT,FAC MATERNITY,Program Office or Location,WEEKLY M,Mothers Tested HIV Positive,Treatment Initiation,Maternity Clinic,Facility
+32132A,DM,HTC,TEST HIVPOS MOTHER,TREATINIT,PARTNER MSH,External Partner,WEEKLY M,Mothers Tested HIV Positive,Treatment Initiation,Management Sciences for Health,Facility
+32132A,DM,HTC,TEST HIVPOS MOTHER,TREATINIT,PARTNER MSH,External Partner,WEEKLY M,Mothers Tested HIV Positive,Treatment Initiation,Management Sciences for Health,Facility
+32132A,DM,HTC,TEST HIVPOS MOTHER,TREATINIT,PARTNER MSF,External Partner,WEEKLY M,Mothers Tested HIV Positive,Treatment Initiation,Doctors without Borders,Facility
+32132A,DM,HTC,TEST HIVPOS MOTHER,TREATINIT,PARTNER MSF,External Partner,WEEKLY M,Mothers Tested HIV Positive,Treatment Initiation,Doctors without Borders,Facility
+32132A,DM,Linkage,TEST HIVPOS,FOLLOWUP,REG ART,Register,WEEKLY,Test HIV Positive,Default Followup,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Linkage,TEST HIVPOS,FOLLOWUP,REG ART,Register,WEEKLY,Test HIV Positive,Default Followup,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Linkage,TEST HIVPOS,FOLLOWUP,REG ART,Register,WEEKLY,Test HIV Positive,Default Followup,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Linkage,TEST HIVPOS,FOLLOWUP,REG HTC,Register,WEEKLY,Test HIV Positive,Default Followup,HIV Testing and Counseling Register,Facility
+32132A,DM,Linkage,TEST HIVPOS,FOLLOWUP,REG HTC,Register,WEEKLY,Test HIV Positive,Default Followup,HIV Testing and Counseling Register,Facility
+32132A,DM,Linkage,TEST HIVPOS,FOLLOWUP,REG HTC,Register,WEEKLY,Test HIV Positive,Default Followup,HIV Testing and Counseling Register,Facility
+32132A,DM,Linkage,DEFAULT,FOLLOWUP,REG ART,Register,WEEKLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Linkage,DEFAULT,FOLLOWUP,REG ART,Register,WEEKLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Linkage,DEFAULT,FOLLOWUP,REG ART,Register,WEEKLY,Defaulters,Default Followup,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Linkage,DEFAULT,FOLLOWUP,REG HTC,Register,WEEKLY,Defaulters,Default Followup,HIV Testing and Counseling Register,Facility
+32132A,DM,Linkage,DEFAULT,FOLLOWUP,REG HTC,Register,WEEKLY,Defaulters,Default Followup,HIV Testing and Counseling Register,Facility
+32132A,DM,Linkage,DEFAULT,FOLLOWUP,REG HTC,Register,WEEKLY,Defaulters,Default Followup,HIV Testing and Counseling Register,Facility
+32132A,DM,Linkage,TREAT,FOLLOWUP,REG ART,Register,WEEKLY,Patients Treated,Default Followup,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Linkage,TREAT,FOLLOWUP,REG ART,Register,WEEKLY,Patients Treated,Default Followup,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Linkage,TREAT,FOLLOWUP,REG ART,Register,WEEKLY,Patients Treated,Default Followup,Anti-Retroviral Treatment Register,Facility
+32132A,DM,Linkage,TREAT,FOLLOWUP,REG HTC,Register,WEEKLY,Patients Treated,Default Followup,HIV Testing and Counseling Register,Facility
+32132A,DM,Linkage,TREAT,FOLLOWUP,REG HTC,Register,WEEKLY,Patients Treated,Default Followup,HIV Testing and Counseling Register,Facility
+32132A,DM,Linkage,TREAT,FOLLOWUP,REG HTC,Register,WEEKLY,Patients Treated,Default Followup,HIV Testing and Counseling Register,Facility
+32132A,DM,Retention,TREAT,FOLLOWUP,PER NURSE ART,Person,BIWEEKLY,Patients Treated,Default Followup,ART Nurse,Facility
+32132A,DM,Retention,TREAT,FOLLOWUP,PER NURSE ART,Person,BIWEEKLY,Patients Treated,Default Followup,ART Nurse,Facility
+32132A,DM,Retention,TREAT,FOLLOWUP,PARTNER MSF,External Partner,BIWEEKLY,Patients Treated,Default Followup,Doctors without Borders,Facility
+32132A,DM,Retention,TREAT,FOLLOWUP,PARTNER MSF,External Partner,BIWEEKLY,Patients Treated,Default Followup,Doctors without Borders,Facility
+32132A,DM,Retention,TREAT,FOLLOWUP,PER SUPPORT,Person,BIWEEKLY,Patients Treated,Default Followup,Support Group,Facility
+32132A,DM,Retention,TREAT,FOLLOWUP,PER SUPPORT,Person,BIWEEKLY,Patients Treated,Default Followup,Support Group,Facility
+32132A,DM,Retention,TEST HIVPOS,FOLLOWUP,PER NURSE ART,Person,BIWEEKLY,Test HIV Positive,Default Followup,ART Nurse,Facility
+32132A,DM,Retention,TEST HIVPOS,FOLLOWUP,PER NURSE ART,Person,BIWEEKLY,Test HIV Positive,Default Followup,ART Nurse,Facility
+32132A,DM,Retention,TEST HIVPOS,FOLLOWUP,PARTNER MSF,External Partner,BIWEEKLY,Test HIV Positive,Default Followup,Doctors without Borders,Facility
+32132A,DM,Retention,TEST HIVPOS,FOLLOWUP,PARTNER MSF,External Partner,BIWEEKLY,Test HIV Positive,Default Followup,Doctors without Borders,Facility
+32132A,DM,Retention,TEST HIVPOS,FOLLOWUP,PER SUPPORT,Person,BIWEEKLY,Test HIV Positive,Default Followup,Support Group,Facility
+32132A,DM,Retention,TEST HIVPOS,FOLLOWUP,PER SUPPORT,Person,BIWEEKLY,Test HIV Positive,Default Followup,Support Group,Facility
+32132A,DM,VMMC,NONE,NONE,PARTNER PSI,External Partner,ASNEED,Not Transmitted,Not Transmitted,Partner PSI,Facility
+32132A,DM,PMTCT,TEST HIVPOS MOTHER,NONE,FAC HTC,Program Office or Location,WEEKLY,Mothers Tested HIV Positive,Not Transmitted,HIV Testing and Counseling Clinic,Facility
+32132A,DM,PMTCT,TEST HIVPOS MOTHER,NONE,FAC HTC,Program Office or Location,WEEKLY,Mothers Tested HIV Positive,Not Transmitted,HIV Testing and Counseling Clinic,Facility
+32132A,DM,PMTCT,TEST HIVPOS MOTHER,NONE,FAC ANC,Program Office or Location,WEEKLY,Mothers Tested HIV Positive,Not Transmitted,Antenatal Care Clinic,Facility
+32132A,DM,PMTCT,TEST HIVPOS MOTHER,NONE,FAC ANC,Program Office or Location,WEEKLY,Mothers Tested HIV Positive,Not Transmitted,Antenatal Care Clinic,Facility
+32132A,DM,PMTCT,TEST HIVPOS MOTHER,NONE,REG PMTCT,Register,WEEKLY,Mothers Tested HIV Positive,Not Transmitted,Preventing Mother to Child Transmission Register,Facility
+32132A,DM,PMTCT,TEST HIVPOS MOTHER,NONE,REG PMTCT,Register,WEEKLY,Mothers Tested HIV Positive,Not Transmitted,Preventing Mother to Child Transmission Register,Facility
+32132A,DM,PMTCT,TEST HIVPOS MOTHER,NONE,REG HTC,Register,WEEKLY,Mothers Tested HIV Positive,Not Transmitted,HIV Testing and Counseling Register,Facility
+32132A,DM,PMTCT,TEST HIVPOS MOTHER,NONE,REG HTC,Register,WEEKLY,Mothers Tested HIV Positive,Not Transmitted,HIV Testing and Counseling Register,Facility
+32132A,DM,PMTCT,TREAT ART,NONE,FAC HTC,Program Office or Location,WEEKLY,Treatment ART,Not Transmitted,HIV Testing and Counseling Clinic,Facility
+32132A,DM,PMTCT,TREAT ART,NONE,FAC HTC,Program Office or Location,WEEKLY,Treatment ART,Not Transmitted,HIV Testing and Counseling Clinic,Facility
+32132A,DM,PMTCT,TREAT ART,NONE,FAC ANC,Program Office or Location,WEEKLY,Treatment ART,Not Transmitted,Antenatal Care Clinic,Facility
+32132A,DM,PMTCT,TREAT ART,NONE,FAC ANC,Program Office or Location,WEEKLY,Treatment ART,Not Transmitted,Antenatal Care Clinic,Facility
+32132A,DM,PMTCT,TREAT ART,NONE,REG PMTCT,Register,WEEKLY,Treatment ART,Not Transmitted,Preventing Mother to Child Transmission Register,Facility
+32132A,DM,PMTCT,TREAT ART,NONE,REG PMTCT,Register,WEEKLY,Treatment ART,Not Transmitted,Preventing Mother to Child Transmission Register,Facility
+32132A,DM,PMTCT,TREAT ART,NONE,REG HTC,Register,WEEKLY,Treatment ART,Not Transmitted,HIV Testing and Counseling Register,Facility
+32132A,DM,PMTCT,TREAT ART,NONE,REG HTC,Register,WEEKLY,Treatment ART,Not Transmitted,HIV Testing and Counseling Register,Facility
+33142A,DM,Drugs,TREAT,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Patients Treated,Drug Supply,Stock Card,Facility
+33142A,DM,Drugs,TREAT,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Patients Treated,Drug Supply,Stock Card,Facility
+33142A,DM,Drugs,TREAT,DRUG SUPPLY,OFF DRUG,Program Office or Location,WEEKLY,Patients Treated,Drug Supply,Drug Store,Facility
+33142A,DM,Drugs,TREAT,DRUG SUPPLY,OFF DRUG,Program Office or Location,WEEKLY,Patients Treated,Drug Supply,Drug Store,Facility
+33142A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Drug Supply,Drug Supply,Stock Card,Facility
+33142A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,CARD STOCK,Register,WEEKLY,Drug Supply,Drug Supply,Stock Card,Facility
+33142A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,OFF DRUG,Program Office or Location,WEEKLY,Drug Supply,Drug Supply,Drug Store,Facility
+33142A,DM,Drugs,DRUG SUPPLY,DRUG SUPPLY,OFF DRUG,Program Office or Location,WEEKLY,Drug Supply,Drug Supply,Drug Store,Facility
+33142A,DM,HTC,TEST HIV,TREATINIT,PER COUNS,Person,MONTHLY,Test HIV,Treatment Initiation,Counselor,Facility
+33142A,DM,HTC,TEST HIV,TREATINIT,PER COUNS,Person,MONTHLY,Test HIV,Treatment Initiation,Counselor,Facility
+33142A,DM,HTC,TEST HIV,TREATINIT,PER COUNS,Person,MONTHLY,Test HIV,Treatment Initiation,Counselor,Facility
+33142A,DM,HTC,TEST HIV,TREATINIT,OFF HTC,Program Office or Location,MONTHLY,Test HIV,Treatment Initiation,HIV Testing and Counseling Office,Facility
+33142A,DM,HTC,TEST HIV,TREATINIT,OFF HTC,Program Office or Location,MONTHLY,Test HIV,Treatment Initiation,HIV Testing and Counseling Office,Facility
+33142A,DM,HTC,TEST HIV,TREATINIT,OFF HTC,Program Office or Location,MONTHLY,Test HIV,Treatment Initiation,HIV Testing and Counseling Office,Facility
+33142A,DM,Linkage,TREAT,TREATINIT,FAC HTC,Program Office or Location,MONTHLY,Patients Treated,Treatment Initiation,HIV Testing and Counseling Clinic,Facility
+33142A,DM,Linkage,TREAT,TREATINIT,FAC HTC,Program Office or Location,MONTHLY,Patients Treated,Treatment Initiation,HIV Testing and Counseling Clinic,Facility
+33142A,DM,Retention,TREAT ART,FOLLOWUP,REG HTC,Register,2XWEEK,Treatment ART,Default Followup,HIV Testing and Counseling Register,Facility
+33142A,DM,Retention,TREAT ART,FOLLOWUP,REG HTC,Register,2XWEEK,Treatment ART,Default Followup,HIV Testing and Counseling Register,Facility
+33142A,DM,Retention,TREAT ART,FOLLOWUP,REG HTC,Register,2XWEEK,Treatment ART,Default Followup,HIV Testing and Counseling Register,Facility
+33142A,DM,Retention,TREAT ART,FOLLOWUP,REG BOOKDIARY,Register,2XWEEK,Treatment ART,Default Followup,Booking Diary,Facility
+33142A,DM,Retention,TREAT ART,FOLLOWUP,REG BOOKDIARY,Register,2XWEEK,Treatment ART,Default Followup,Booking Diary,Facility
+33142A,DM,Retention,TREAT ART,FOLLOWUP,REG BOOKDIARY,Register,2XWEEK,Treatment ART,Default Followup,Booking Diary,Facility
+33142A,DM,Retention,TREAT ART,FOLLOWUP,REG DEFAULT,Register,2XWEEK,Treatment ART,Default Followup,Defaulter Register,Facility
+33142A,DM,Retention,TREAT ART,FOLLOWUP,REG DEFAULT,Register,2XWEEK,Treatment ART,Default Followup,Defaulter Register,Facility
+33142A,DM,Retention,TREAT ART,FOLLOWUP,REG DEFAULT,Register,2XWEEK,Treatment ART,Default Followup,Defaulter Register,Facility
+33142A,DM,Retention,REFER ART,FOLLOWUP,REG HTC,Register,2XWEEK,Number of individuals refered to ART for treatment,Default Followup,HIV Testing and Counseling Register,Facility
+33142A,DM,Retention,REFER ART,FOLLOWUP,REG HTC,Register,2XWEEK,Number of individuals refered to ART for treatment,Default Followup,HIV Testing and Counseling Register,Facility
+33142A,DM,Retention,REFER ART,FOLLOWUP,REG HTC,Register,2XWEEK,Number of individuals refered to ART for treatment,Default Followup,HIV Testing and Counseling Register,Facility
+33142A,DM,Retention,REFER ART,FOLLOWUP,REG BOOKDIARY,Register,2XWEEK,Number of individuals refered to ART for treatment,Default Followup,Booking Diary,Facility
+33142A,DM,Retention,REFER ART,FOLLOWUP,REG BOOKDIARY,Register,2XWEEK,Number of individuals refered to ART for treatment,Default Followup,Booking Diary,Facility
+33142A,DM,Retention,REFER ART,FOLLOWUP,REG BOOKDIARY,Register,2XWEEK,Number of individuals refered to ART for treatment,Default Followup,Booking Diary,Facility
+33142A,DM,Retention,REFER ART,FOLLOWUP,REG DEFAULT,Register,2XWEEK,Number of individuals refered to ART for treatment,Default Followup,Defaulter Register,Facility
+33142A,DM,Retention,REFER ART,FOLLOWUP,REG DEFAULT,Register,2XWEEK,Number of individuals refered to ART for treatment,Default Followup,Defaulter Register,Facility
+33142A,DM,Retention,REFER ART,FOLLOWUP,REG DEFAULT,Register,2XWEEK,Number of individuals refered to ART for treatment,Default Followup,Defaulter Register,Facility
+33142A,DM,PMTCT,TEST HIVPOS WOMEN,TREATINIT,REG ANC,Register,MONTHLY,Number of women who test HIV positive,Treatment Initiation,Antenatal Care Register,Facility
+33142A,DM,PMTCT,TEST HIVPOS WOMEN,TREATINIT,REG ANC,Register,MONTHLY,Number of women who test HIV positive,Treatment Initiation,Antenatal Care Register,Facility
+33142A,DM,PMTCT,TEST HIVPOS WOMEN,TREATINIT,REG HTC,Register,MONTHLY,Number of women who test HIV positive,Treatment Initiation,HIV Testing and Counseling Register,Facility
+33142A,DM,PMTCT,TEST HIVPOS WOMEN,TREATINIT,REG HTC,Register,MONTHLY,Number of women who test HIV positive,Treatment Initiation,HIV Testing and Counseling Register,Facility
+33142A,DM,PMTCT,TEST HIVPOS WOMEN,FOLLOWUP,REG ANC,Register,MONTHLY,Number of women who test HIV positive,Default Followup,Antenatal Care Register,Facility
+33142A,DM,PMTCT,TEST HIVPOS WOMEN,FOLLOWUP,REG ANC,Register,MONTHLY,Number of women who test HIV positive,Default Followup,Antenatal Care Register,Facility
+33142A,DM,PMTCT,TEST HIVPOS WOMEN,FOLLOWUP,REG HTC,Register,MONTHLY,Number of women who test HIV positive,Default Followup,HIV Testing and Counseling Register,Facility
+33142A,DM,PMTCT,TEST HIVPOS WOMEN,FOLLOWUP,REG HTC,Register,MONTHLY,Number of women who test HIV positive,Default Followup,HIV Testing and Counseling Register,Facility
+33142A,DM,Performance management,TREAT,DRUG SUPPLY,FAC HTC,Program Office or Location,MONTHLY,Patients Treated,Drug Supply,HIV Testing and Counseling Clinic,Facility
+33142A,DM,Performance management,TEST HIVPOS,DRUG SUPPLY,FAC HTC,Program Office or Location,MONTHLY,Test HIV Positive,Drug Supply,HIV Testing and Counseling Clinic,Facility
+33142A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE RESOURCE,OFF PHARM,Program Office or Location,WEEKLY,Drug Supply,Resource Prioritization,Pharmacy,Facility
+33142A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE RESOURCE,OFF PHARM,Program Office or Location,WEEKLY,Drug Supply,Resource Prioritization,Pharmacy,Facility
+33142A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE RESOURCE,OFF PHARM,Program Office or Location,WEEKLY,Drug Supply,Resource Prioritization,Pharmacy,Facility
+33142A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE RESOURCE,OFF DRUG,Program Office or Location,WEEKLY,Drug Supply,Resource Prioritization,Drug Store,Facility
+33142A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE RESOURCE,OFF DRUG,Program Office or Location,WEEKLY,Drug Supply,Resource Prioritization,Drug Store,Facility
+33142A,DM,Program Efficiency,DRUG SUPPLY,PRIORITIZE RESOURCE,OFF DRUG,Program Office or Location,WEEKLY,Drug Supply,Resource Prioritization,Drug Store,Facility
+33142A,DM,Program Efficiency,TREAT,PRIORITIZE RESOURCE,OFF PHARM,Program Office or Location,WEEKLY,Patients Treated,Resource Prioritization,Pharmacy,Facility
+33142A,DM,Program Efficiency,TREAT,PRIORITIZE RESOURCE,OFF PHARM,Program Office or Location,WEEKLY,Patients Treated,Resource Prioritization,Pharmacy,Facility
+33142A,DM,Program Efficiency,TREAT,PRIORITIZE RESOURCE,OFF PHARM,Program Office or Location,WEEKLY,Patients Treated,Resource Prioritization,Pharmacy,Facility
+33142A,DM,Program Efficiency,TREAT,PRIORITIZE RESOURCE,OFF DRUG,Program Office or Location,WEEKLY,Patients Treated,Resource Prioritization,Drug Store,Facility
+33142A,DM,Program Efficiency,TREAT,PRIORITIZE RESOURCE,OFF DRUG,Program Office or Location,WEEKLY,Patients Treated,Resource Prioritization,Drug Store,Facility
+33142A,DM,Program Efficiency,TREAT,PRIORITIZE RESOURCE,OFF DRUG,Program Office or Location,WEEKLY,Patients Treated,Resource Prioritization,Drug Store,Facility
+33152A,DM,Drugs,TREAT,PRIORITIZE RESOURCE,FAC ART,Program Office or Location,ASNEED,Patients Treated,Resource Prioritization,ART Clinic,Facility
+33152A,DM,Drugs,TREAT,PRIORITIZE RESOURCE,FAC ART,Program Office or Location,ASNEED,Patients Treated,Resource Prioritization,ART Clinic,Facility
+33152A,DM,Drugs,DRUG SUPPLY,PRIORITIZE RESOURCE,FAC ART,Program Office or Location,ASNEED,Drug Supply,Resource Prioritization,ART Clinic,Facility
+33152A,DM,Drugs,DRUG SUPPLY,PRIORITIZE RESOURCE,FAC ART,Program Office or Location,ASNEED,Drug Supply,Resource Prioritization,ART Clinic,Facility
+33152A,DM,HTC,CD4COUNT,TEST,FAC ART,Program Office or Location,QUARTERLY,CD4 Count,Number of individuals tested,ART Clinic,Facility
+33152A,DM,Linkage,ANEMIA,TREATINIT,GUIDELINE HIV,Guideline,DAILY,Anemia,Treatment Initiation,HIV Guideline,Facility
+33152A,DM,Linkage,AGE,TREATINIT,GUIDELINE HIV,Guideline,DAILY,Age,Treatment Initiation,HIV Guideline,Facility
+33152A,DM,Retention,DEFAULT,FOLLOWUP,FAC ART,Program Office or Location,MONTHLY,Defaulters,Default Followup,ART Clinic,Facility
+33152A,DM,Retention,DEFAULT,FOLLOWUP,FAC ART,Program Office or Location,MONTHLY,Defaulters,Default Followup,ART Clinic,Facility
+33152A,DM,VMMC,SEEK,NONE,PARTNER PSI,External Partner,ASNEED,Seek Initiatives to Prevent/Reduce HIV,Not Transmitted,Partner PSI,Facility
+33152A,DM,PMTCT,TEST HIVPOS WOMEN,TREATINIT,FAC MATERNITY,Program Office or Location,ASNEED,Number of women who test HIV positive,Treatment Initiation,Maternity Clinic,Facility
+33152A,DM,PMTCT,TEST HIVPOS WOMEN,TREATINIT,FAC MATERNITY,Program Office or Location,ASNEED,Number of women who test HIV positive,Treatment Initiation,Maternity Clinic,Facility
+33152A,DM,Performance management,CHALLENGE,REFER,MEETING,Meeting or group,MONTHLY,Challenges Emerge From Department,Referral,Meeting,Facility
+33152A,DM,Program Efficiency,TREAT,TEST,FAC ART,Program Office or Location,ASNEED,Patients Treated,Number of individuals tested,ART Clinic,Facility
+33152A,DM,Program Efficiency,DRUG SUPPLY,TEST,FAC ART,Program Office or Location,ASNEED,Drug Supply,Number of individuals tested,ART Clinic,Facility
